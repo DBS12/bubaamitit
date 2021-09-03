@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="" houseid="1" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="2" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="3" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="4" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="5" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="6" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="7" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="8" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="" houseid="9" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
+	<house name="Unnamed House #11" houseid="11" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #12" houseid="12" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #13" houseid="13" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #14" houseid="14" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #15" houseid="15" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #16" houseid="16" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #17" houseid="17" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #18" houseid="18" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #19" houseid="19" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #20" houseid="20" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Unnamed House #21" houseid="21" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+</houses>

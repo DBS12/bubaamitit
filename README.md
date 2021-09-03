@@ -1,2 +1,0 @@
-# bubaamitit
-Tibia OT Server
