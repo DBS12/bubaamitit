@@ -1,0 +1,14 @@
+# ignore log files and databases
+*.log
+*.report
+*.otbm
+
+# --------------------------------------------------------
+# BEGIN Explictly Allowed Files (i.e. do NOT ignore these)
+# --------------------------------------------------------
+
+# track these files, if they exist
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
+!.env.example
