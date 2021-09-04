@@ -1,5 +1,5 @@
 local effects = {
-    {position = Position(994, 1000, 7), text = 'Cities', effect = CONST_ME_DRAWBLOOD},
+    {position = Position(994, 1000, 7), text = 'Buba City', effect = CONST_ME_DRAWBLOOD},
     {position = Position(994, 999, 7), text = 'Quests'}, -- text only
     {position = Position(994, 998, 7), text = 'Hunting', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(1006, 997, 7), text = 'NPC', effect = CONST_ME_DRAWBLOOD},
