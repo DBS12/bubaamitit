@@ -32,8 +32,11 @@
 	<talkaction words="/ghost" script="ghost.lua" />
 	<talkaction words="/clean" script="clean.lua" />
 	<talkaction words="/hide" script="hide.lua" />
+	<talkaction words="/jail" separator=" " script="jail.lua" />
+    <talkaction words="/unjail" separator=" " script="jail.lua" />
 
 	<!-- player talkactions -->
+	<talkaction words="!points" script="sp.lua"/>
 	<talkaction words="!buypremium" script="buyprem.lua" />
 	<talkaction words="!buyhouse" script="buyhouse.lua" />
 	<talkaction words="!leavehouse" script="leavehouse.lua" />
@@ -43,7 +46,11 @@
 	<talkaction words="!kills" script="kills.lua" />
 	<talkaction words="!online" script="online.lua" />
 	<talkaction words="!serverinfo" script="serverinfo.lua" />
-
+	<talkaction words="!addon" script="addons.lua"/>
+	<talkaction words="!aol" script="aol.lua"/>
+	<talkaction words="!bless" script="bless.lua" />
+	<talkaction words="!commands" script="commands.lua"/>
+	
 	<!-- test talkactions -->
 	<talkaction words="!z" separator=" " script="magiceffect.lua" />
 	<talkaction words="!x" separator=" " script="animationeffect.lua" />

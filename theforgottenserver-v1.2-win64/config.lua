@@ -5,17 +5,22 @@ hotkeyAimbotEnabled = true
 protectionLevel = 1
 killsToRedSkull = 3
 killsToBlackSkull = 6
-pzLocked = 60000
+pzLocked = 10000
 removeChargesFromRunes = true
 timeToDecreaseFrags = 24 * 60 * 60 * 1000
 whiteSkullTime = 15 * 60 * 1000
 stairJumpExhaustion = 500
 experienceByKillingPlayers = false
 expFromPlayersLevelRange = 75
+blessing = true
+blessingOnlyPremium = false
+blessingReductionBase = 0
+blessingReductionDecreament = 0
+eachBlessReduction = 0
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "bubot.ddns.net"
+ip = "127.0.0.1"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
