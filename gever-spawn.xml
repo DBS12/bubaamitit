@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="86" centery="8" centerz="13" radius="2">
+		<monster name="Gaz'haragoth" x="1" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="69" centery="12" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="84" centery="18" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="105" centery="20" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="126" centery="20" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="22" centerz="13" radius="2">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="92" centery="27" centerz="13" radius="2">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="113" centery="27" centerz="13" radius="2">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="132" centery="27" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="76" centery="28" centerz="13" radius="2">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="102" centery="34" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="111" centery="47" centerz="13" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+</spawns>
