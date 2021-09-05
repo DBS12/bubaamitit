@@ -2,15 +2,15 @@
 -- NOTE: valid values for worldType are: "pvp", "no-pvp" and "pvp-enforced"
 worldType = "pvp"
 hotkeyAimbotEnabled = true
-protectionLevel = 1
-killsToRedSkull = 3
-killsToBlackSkull = 6
+protectionLevel = 50
+killsToRedSkull = 10
+killsToBlackSkull = 10
 pzLocked = 10000
 removeChargesFromRunes = true
 timeToDecreaseFrags = 24 * 60 * 60 * 1000
 whiteSkullTime = 15 * 60 * 1000
 stairJumpExhaustion = 500
-experienceByKillingPlayers = false
+experienceByKillingPlayers = true
 expFromPlayersLevelRange = 75
 blessing = true
 blessingOnlyPremium = false
@@ -20,14 +20,14 @@ eachBlessReduction = 0
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "127.0.0.1"
+ip = "bubot.ddns.net"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
 statusProtocolPort = 7171
 maxPlayers = 0
 motd = "Shalom Buba!!"
-onePlayerOnlinePerAccount = true
+onePlayerOnlinePerAccount = false
 allowClones = false
 serverName = "Buba"
 statusTimeout = 5000
@@ -71,10 +71,10 @@ passwordType = "sha1"
 
 -- Misc.
 allowChangeOutfit = true
-freePremium = false
+freePremium = true
 kickIdlePlayerAfterMinutes = 15
 maxMessageBuffer = 4
-emoteSpells = false
+emoteSpells = true
 classicEquipmentSlots = false
 
 -- Rates
@@ -90,7 +90,7 @@ deSpawnRange = 2
 deSpawnRadius = 50
 
 -- Stamina
-staminaSystem = true
+staminaSystem = false
 
 -- Scripts
 warnUnsafeScripts = true

@@ -2683,7 +2683,7 @@
 		<attribute key="type" value="rune" />
 		<attribute key="runeSpellName" value="adori gran mort" />
 		<attribute key="weight" value="70" />
-		<attribute key="charges" value="3" />
+		<attribute key="charges" value="0" />
 	</item>
 	<item id="2269" article="a" name="wild growth rune">
 		<attribute key="type" value="rune" />
@@ -2739,7 +2739,15 @@
 		<attribute key="weight" value="52" />
 		<attribute key="charges" value="4" />
 	</item>
-	<item fromid="2280" toid="2284" article="a" name="spell rune">
+	<item id="2280" article="a" name="spell rune">
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="2281" article="a" name="Manarune">
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item fromid="2282" toid="2284" article="a" name="spell rune">
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
 	</item>
@@ -2849,11 +2857,11 @@
 		<attribute key="weight" value="105" />
 		<attribute key="charges" value="2" />
 	</item>
-	<item fromid="2306" article="a" name="spell rune">
+	<item id="2306" article="a" name="spell rune">
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
 	</item>
-	<item fromid="2307" article="a" name="Health Rune">
+	<item id="2307" article="a" name="HealthRune">
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
 	</item>
@@ -2899,7 +2907,7 @@
 		<attribute key="weight" value="52" />
 		<attribute key="charges" value="4" />
 	</item>
-	<item id="2316" article="a" name="Manarune">
+	<item id="2316" article="a" name="spell rune">
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
 	</item>

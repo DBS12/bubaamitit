@@ -135,7 +135,7 @@
 
 	<!-- Other -->
 	<action itemid="2307" script="other/HealthRune.lua"/>
-	<action itemid="2316" script="other/Manarune.lua"/>
+	<action itemid="2281" script="other/Manarune.lua"/>
 	<action itemid="2298" script="other/MixedRune.lua"/>
 	<action itemid="1953" script="other/tpscroll.lua"/>
 	<action itemid="6578" script="other/partyhat.lua" />

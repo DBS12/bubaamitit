@@ -1,14 +1,16 @@
-function onUse(player, item, fromPosition, target, toPosition, isHotkey)
-    local level = player:getLevel()
-    local magLevel = player:getMagicLevel()
-    local min = (level * 5) + (maglevel * 1) - 50
-    local max = (level * 10) + (maglevel * 1)
-    if player:getVocation():getId() == 1 or player:getVocation():getId() == 2 or player:getVocation():getId() == 3 or player:getVocation():getId() == 4 or player:getVocation():getId() == 5 or player:getVocation():getId() == 6 or player:getVocation():getId() == 7 or player:getVocation():getId() == 8 then
-    player:addHealth(math.random(min, max))
-    player:getPosition():sendMagicEffect(CONST_ME_MAGIC_BLUE)
-    player:say("Mana And HP? Nice!", TALKTYPE_MONSTER_SAY)
-    else
-        player:sendCancelMessage("This rune is not usable for your vocation.")
-    end
-    return true
+local exhaust = createConditionObject(CONDITION_EXHAUST)
+setConditionParam(exhaust, CONDITION_PARAM_TICKS, (getConfigInfo('timeBetweenExActions') - 100))
+
+function onUse(cid, item, fromPosition, itemEx, toPosition)
+	local level = getPlayerLevel(cid)
+	local mlevel = getPlayerMagLevel(cid)
+	local health_minimum = (level * 5) + (mlevel * 1) - 50
+	local health_maximum = (level * 10) + (mlevel * 1)
+	local health_add = math.random(health_minimum, health_maximum)
+	
+	doPlayerAddMana(cid, mana_add)
+        doCreatureAddHealth(cid, health_add)
+	doSendMagicEffect(getThingPos(itemEx.uid), CONST_ME_MAGIC_BLUE)
+	doCreatureSay(itemEx.uid, "Hmm HP", TALKTYPE_ORANGE_1)
+	return TRUE
 end
