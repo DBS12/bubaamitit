@@ -524,19 +524,61 @@
 	<spawn centerx="16" centery="84" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="20" centery="86" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="11" centery="90" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="36" centery="91" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="61" centery="93" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="38" centery="94" centerz="13" radius="1">
+		<monster name="Infernalist" x="1" y="-1" z="13" spawntime="60" />
+		<monster name="Infernatil" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="40" centery="94" centerz="13" radius="1" />
+	<spawn centerx="58" centery="94" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="54" centery="95" centerz="13" radius="1">
+		<monster name="Infernatil" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="69" centery="95" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="-1" y="0" z="13" spawntime="60" />
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="110" centery="96" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="112" centery="96" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="114" centery="96" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="116" centery="96" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="9" centery="97" centerz="13" radius="1">
 		<monster name="Verminor" x="-1" y="-1" z="13" spawntime="60" />
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="38" centery="97" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="54" centery="98" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
@@ -544,23 +586,99 @@
 	<spawn centerx="77" centery="98" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="111" centery="98" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="113" centery="98" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="115" centery="98" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="117" centery="98" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="21" centery="99" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="99" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="101" centery="100" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="103" centery="100" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="105" centery="100" centerz="13" radius="1">
 		<monster name="Zoralurk" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="111" centery="100" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="113" centery="100" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="120" centery="100" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="123" centery="100" centerz="13" radius="1">
+		<monster name="The Pit Lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="35" centery="101" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="-1" y="-1" z="13" spawntime="60" />
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="115" centery="101" centerz="13" radius="1">
+		<monster name="Pig" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="-1" z="13" spawntime="0" />
+		<monster name="Pig" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Pig" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="97" centery="102" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="50" centery="103" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="-1" z="13" spawntime="60" />
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="74" centery="103" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Infernalist" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="102" centery="103" centerz="13" radius="1">
+		<monster name="The Pit Lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="123" centery="103" centerz="13" radius="1">
+		<monster name="The Pit Lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="6" centery="105" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="99" centery="105" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="75" centery="106" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="124" centery="106" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Hand of Cursed Fate" x="1" y="0" z="13" spawntime="60" />
+		<monster name="Infernalist" x="0" y="1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="39" centery="107" centerz="13" radius="1">
 		<monster name="Ushuriel" x="0" y="0" z="13" spawntime="60" />
@@ -571,20 +689,91 @@
 	<spawn centerx="4" centery="108" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="92" centery="108" centerz="13" radius="1">
+		<monster name="The Pit Lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="125" centery="110" centerz="13" radius="1">
 		<monster name="Latrivan" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="94" centery="112" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="-1" y="0" z="13" spawntime="60" />
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="96" centery="112" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="92" centery="113" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="125" centery="113" centerz="13" radius="1">
+		<monster name="Jaul" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="114" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="71" centery="114" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32" centery="115" centerz="13" radius="1">
+		<monster name="Infernatil" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="39" centery="115" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="54" centery="115" centerz="13" radius="1">
+		<monster name="The Pit Lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="64" centery="115" centerz="13" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Nightstalker" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Nightstalker" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Nightstalker" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="66" centery="115" centerz="13" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="89" centery="115" centerz="13" radius="1">
+		<monster name="Jaul" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="124" centery="115" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Infernalist" x="1" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="22" centery="116" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="116" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="37" centery="116" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="116" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="60" centery="116" centerz="13" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Nightstalker" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Nightstalker" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Nightstalker" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="62" centery="116" centerz="13" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="97" centery="116" centerz="13" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="117" centerz="13" radius="1">
+		<monster name="Nightstalker" x="0" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="74" centery="117" centerz="13" radius="1">
+		<monster name="Infernatil" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="125" centery="117" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="118" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="48" centery="118" centerz="13" radius="1">
 		<monster name="Ghazbaran" x="0" y="0" z="13" spawntime="60" />
@@ -592,21 +781,69 @@
 	<spawn centerx="60" centery="118" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="66" centery="118" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="68" centery="118" centerz="13" radius="1">
-		<monster name="Warlock" x="-1" y="0" z="13" spawntime="60" />
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="83" centery="119" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="1" y="-1" z="13" spawntime="60" />
 		<monster name="Golgordan" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="126" centery="119" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="77" centery="121" centerz="13" radius="1">
+		<monster name="The Pit Lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="121" centery="121" centerz="13" radius="1">
+		<monster name="Panda" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="123" centery="121" centerz="13" radius="1">
+		<monster name="Panda" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="127" centery="121" centerz="13" radius="1">
+		<monster name="Panda" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="-1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="125" centery="122" centerz="13" radius="1">
+		<monster name="Panda" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Panda" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Panda" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="57" centery="123" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="121" centery="123" centerz="13" radius="1">
+		<monster name="Panda" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="123" centery="124" centerz="13" radius="1">
+		<monster name="Panda" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Panda" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Panda" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="125" centery="124" centerz="13" radius="1">
+		<monster name="Panda" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="65" centery="126" centerz="13" radius="1">
+		<monster name="Hand of Cursed Fate" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Hand of Cursed Fate" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="68" centery="127" centerz="13" radius="1">
 		<monster name="Deathslicer" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Infernatil" x="1" y="1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="8" centery="133" centerz="13" radius="1">
 		<monster name="Horse1" x="0" y="0" z="13" spawntime="60" />
@@ -853,6 +1090,12 @@
 	</spawn>
 	<spawn centerx="50" centery="144" centerz="13" radius="1">
 		<monster name="Orshabaal" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="144" centerz="13" radius="1">
+		<monster name="Jaul" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="144" centerz="13" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="64" centery="144" centerz="13" radius="1">
 		<monster name="Wolf" x="0" y="0" z="13" spawntime="60" />
@@ -1181,12 +1424,13 @@
 	<spawn centerx="145" centery="158" centerz="13" radius="1">
 		<monster name="Warlock" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="155" centery="158" centerz="13" radius="1">
+		<monster name="Azerus" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="107" centery="159" centerz="13" radius="1">
 		<monster name="Lion" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
-	<spawn centerx="159" centery="159" centerz="13" radius="1">
-		<monster name="Yalahari" x="0" y="0" z="13" spawntime="60" />
-	</spawn>
+	<spawn centerx="159" centery="159" centerz="13" radius="1" />
 	<spawn centerx="122" centery="160" centerz="13" radius="1">
 		<monster name="Flamethrower" x="0" y="0" z="13" spawntime="60" />
 		<monster name="Flamethrower" x="1" y="0" z="13" spawntime="60" />
@@ -1197,6 +1441,28 @@
 	<spawn centerx="155" centery="160" centerz="13" radius="1">
 		<monster name="Flamethrower" x="-1" y="0" z="13" spawntime="60" />
 		<monster name="Flamethrower" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="15" centery="227" centerz="13" radius="1">
+		<monster name="Priestess" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="60" />
+		<monster name="Priestess" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="17" centery="227" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="19" centery="227" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="227" centerz="13" radius="1">
+		<monster name="Sheep" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="24" centery="227" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="113" centery="228" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1229,6 +1495,14 @@
 	<spawn centerx="131" centery="228" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="15" centery="229" centerz="13" radius="1">
+		<monster name="Priestess" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Priestess" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="23" centery="229" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="101" centery="229" centerz="13" radius="1">
 		<monster name="Bazir" x="-1" y="0" z="13" spawntime="3600" />
@@ -1319,6 +1593,15 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="15" centery="231" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="23" centery="231" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="41" centery="231" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
@@ -1407,6 +1690,16 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="15" centery="233" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="233" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="40" centery="233" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
@@ -1427,6 +1720,31 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="15" centery="235" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="17" centery="235" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="19" centery="235" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="21" centery="235" centerz="13" radius="1">
+		<monster name="Sheep" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Sheep" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Sheep" x="1" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="39" centery="235" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1455,6 +1773,32 @@
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="16" centery="237" centerz="13" radius="1">
+		<monster name="Beholder" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Beholder" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="18" centery="237" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="20" centery="237" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="237" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="38" centery="237" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
@@ -1475,6 +1819,10 @@
 	<spawn centerx="123" centery="237" centerz="13" radius="1">
 		<monster name="Plaguethrower" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="24" centery="238" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="-1" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="63" centery="238" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
@@ -1482,6 +1830,24 @@
 	<spawn centerx="206" centery="238" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="16" centery="239" centerz="13" radius="1">
+		<monster name="Beholder" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="18" centery="239" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="20" centery="239" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Beholder" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="239" centerz="13" radius="1">
+		<monster name="Beholder" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Askarak Demon" x="0" y="1" z="13" spawntime="60" />
+		<monster name="Askarak Lord" x="1" y="1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="37" centery="239" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1506,6 +1872,9 @@
 	<spawn centerx="159" centery="239" centerz="13" radius="1">
 		<monster name="Plaguethrower" x="0" y="0" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="24" centery="240" centerz="13" radius="1">
+		<monster name="Askarak Prince" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="63" centery="240" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
@@ -1514,6 +1883,24 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="15" centery="241" centerz="13" radius="1">
+		<monster name="Calamary" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Calamary" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Calamary" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Calamary" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="17" centery="241" centerz="13" radius="1">
+		<monster name="Calamary" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Crab" x="1" y="0" z="13" spawntime="60" />
+		<monster name="Calamary" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Crab" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="19" centery="241" centerz="13" radius="1">
+		<monster name="Crab" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Crab" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Crab" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Crab" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="37" centery="241" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
@@ -1521,6 +1908,11 @@
 	<spawn centerx="88" centery="241" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="22" centery="242" centerz="13" radius="1">
+		<monster name="Munster" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Munster" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Munster" x="0" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="64" centery="242" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1567,6 +1959,19 @@
 	<spawn centerx="207" centery="242" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="15" centery="243" centerz="13" radius="1">
+		<monster name="Calamary" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Calamary" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="17" centery="243" centerz="13" radius="1">
+		<monster name="Calamary" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Crab" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Mad Mage" x="0" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="19" centery="243" centerz="13" radius="1">
+		<monster name="Crab" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Crab" x="1" y="0" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="37" centery="243" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1635,6 +2040,11 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="21" centery="244" centerz="13" radius="1">
+		<monster name="Munster" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Munster" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Munster" x="0" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="65" centery="244" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1730,6 +2140,19 @@
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="15" centery="246" centerz="13" radius="1">
+		<monster name="Munster" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Munster" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="17" centery="246" centerz="13" radius="1">
+		<monster name="Munster" x="1" y="-1" z="13" spawntime="0" />
+		<monster name="Munster" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Munster" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="19" centery="246" centerz="13" radius="1">
+		<monster name="Munster" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Ferumbras" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="65" centery="246" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
@@ -1761,6 +2184,27 @@
 	<spawn centerx="191" centery="247" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="17" centery="248" centerz="13" radius="1">
+		<monster name="Kollos" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="1" y="0" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="19" centery="248" centerz="13" radius="1">
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Munster" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Munster" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="21" centery="248" centerz="13" radius="1">
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Munster" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Munster" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="23" centery="248" centerz="13" radius="1">
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Munster" x="0" y="1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="66" centery="248" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1796,6 +2240,24 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="18" centery="251" centerz="13" radius="1">
+		<monster name="Kollos" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="20" centery="251" centerz="13" radius="1">
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Kollos" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="251" centerz="13" radius="1">
+		<monster name="Kollos" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="37" centery="251" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
@@ -1818,6 +2280,10 @@
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="28" centery="252" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="66" centery="252" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
@@ -1825,6 +2291,32 @@
 	<spawn centerx="209" centery="252" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="15" centery="253" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="-1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="17" centery="253" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="19" centery="253" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="21" centery="253" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="38" centery="253" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1860,15 +2352,20 @@
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
 	</spawn>
+	<spawn centerx="28" centery="254" centerz="13" radius="1">
+		<monster name="Jellyfish" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="-1" y="1" z="13" spawntime="0" />
+	</spawn>
 	<spawn centerx="67" centery="254" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
 	</spawn>
 	<spawn centerx="164" centery="254" centerz="13" radius="1">
 		<monster name="Tanjis" x="0" y="0" z="13" spawntime="60" />
+		<monster name="Azerus" x="1" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="166" centery="254" centerz="13" radius="1">
-		<monster name="Yalahari" x="0" y="0" z="13" spawntime="60" />
 		<monster name="Ghazbaran" x="1" y="0" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="169" centery="254" centerz="13" radius="1">
@@ -1892,6 +2389,46 @@
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="1" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="16" centery="255" centerz="13" radius="1">
+		<monster name="Jellyfish" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="18" centery="255" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="20" centery="255" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="255" centerz="13" radius="1">
+		<monster name="Jellyfish" x="1" y="-1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="24" centery="255" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="-1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="26" centery="255" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="-1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="39" centery="255" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
@@ -1945,6 +2482,41 @@
 	<spawn centerx="210" centery="256" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
 		<monster name="Bazir" x="0" y="1" z="13" spawntime="3600" />
+	</spawn>
+	<spawn centerx="16" centery="257" centerz="13" radius="1">
+		<monster name="Jellyfish" x="-1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="-1" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="18" centery="257" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="20" centery="257" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="22" centery="257" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="24" centery="257" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="0" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="0" y="1" z="13" spawntime="0" />
+		<monster name="Jellyfish" x="1" y="1" z="13" spawntime="0" />
+	</spawn>
+	<spawn centerx="26" centery="257" centerz="13" radius="1">
+		<monster name="Jellyfish" x="0" y="0" z="13" spawntime="0" />
 	</spawn>
 	<spawn centerx="39" centery="257" centerz="13" radius="1">
 		<monster name="Bazir" x="0" y="0" z="13" spawntime="3600" />
