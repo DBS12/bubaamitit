@@ -15,6 +15,8 @@ if getPlayerVocation(cid) == 1 or getPlayerVocation(cid) == 5 then
 		doAddContainerItem(bag, 1953, 1)
 		doAddContainerItem(bag, 2160, 100)
 		doAddContainerItem(bag, 2175, 1)
+		doAddContainerItem(bag, 2307, 1)
+		doAddContainerItem(bag, 2316, 1)
 		setPlayerStorageValue(cid, 50001, 1)
 elseif getPlayerVocation(cid) == 2 or getPlayerVocation(cid) == 6 then
 		local bag = doPlayerAddItem(cid, 1988, 1)
@@ -31,6 +33,8 @@ elseif getPlayerVocation(cid) == 2 or getPlayerVocation(cid) == 6 then
 		doAddContainerItem(bag, 1953, 1)
 		doAddContainerItem(bag, 2160, 100)
 		doAddContainerItem(bag, 2175, 1)
+		doAddContainerItem(bag, 2307, 1)
+		doAddContainerItem(bag, 2316, 1)
 		setPlayerStorageValue(cid, 50001, 1)
 elseif getPlayerVocation(cid) == 3 or getPlayerVocation(cid) == 7 then
 		local bag = doPlayerAddItem(cid, 1988, 1)
@@ -47,6 +51,7 @@ elseif getPlayerVocation(cid) == 3 or getPlayerVocation(cid) == 7 then
 		doAddContainerItem(bag, 1953, 1)
 		doAddContainerItem(bag, 2160, 100)
 		doAddContainerItem(bag, 2175, 1)
+		doAddContainerItem(bag, 2298, 1)
 		setPlayerStorageValue(cid, 50001, 1)
 elseif getPlayerVocation(cid) == 4 or getPlayerVocation(cid) == 8 then
 		local bag = doPlayerAddItem(cid, 1988, 1)
@@ -63,6 +68,8 @@ elseif getPlayerVocation(cid) == 4 or getPlayerVocation(cid) == 8 then
 		doAddContainerItem(bag, 1953, 1)
 		doAddContainerItem(bag, 2160, 100)
 		doAddContainerItem(bag, 2175, 1)
+		doAddContainerItem(bag, 2307, 1)
+		doAddContainerItem(bag, 2316, 1)
 		setPlayerStorageValue(cid, 50001, 1)
 
 		end

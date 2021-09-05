@@ -2807,7 +2807,15 @@
 		<attribute key="weight" value="42" />
 		<attribute key="charges" value="5" />
 	</item>
-	<item fromid="2296" toid="2300" article="a" name="spell rune">
+	<item fromid="2296" toid="2297" article="a" name="spell rune">
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item fromid="2299" toid="2300" article="a" name="spell rune">
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="2298" article="a" name="MixedRune">
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
 	</item>
@@ -2841,7 +2849,11 @@
 		<attribute key="weight" value="105" />
 		<attribute key="charges" value="2" />
 	</item>
-	<item fromid="2306" toid="2307" article="a" name="spell rune">
+	<item fromid="2306" article="a" name="spell rune">
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item fromid="2307" article="a" name="Health Rune">
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
 	</item>
@@ -2887,11 +2899,9 @@
 		<attribute key="weight" value="52" />
 		<attribute key="charges" value="4" />
 	</item>
-	<item id="2316" article="an" name="animate dead rune">
+	<item id="2316" article="a" name="Manarune">
 		<attribute key="type" value="rune" />
-		<attribute key="runeSpellName" value="adana mort" />
-		<attribute key="weight" value="210" />
-		<attribute key="charges" value="1" />
+		<attribute key="weight" value="120" />
 	</item>
 	<item id="2317" article="a" name="dead human" />
 	<item id="2318" article="a" name="family brooch">
