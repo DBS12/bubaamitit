@@ -258,6 +258,120 @@
 	<spawn centerx="1003" centery="1008" centerz="7" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="7" spawntime="3600" />
 	</spawn>
+	<spawn centerx="1009" centery="1349" centerz="7" radius="1">
+		<monster name="Ushuriel" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1014" centery="1349" centerz="7" radius="1">
+		<monster name="Ushuriel" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1067" centery="1349" centerz="7" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1060" centery="1352" centerz="7" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1117" centery="1352" centerz="7" radius="1">
+		<monster name="Annihilon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1109" centery="1354" centerz="7" radius="1">
+		<monster name="Annihilon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1378" centerz="7" radius="1">
+		<monster name="Demon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1378" centerz="7" radius="1">
+		<monster name="Juggernaut" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1380" centerz="7" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1380" centerz="7" radius="1">
+		<monster name="Leviathan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1382" centerz="7" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1382" centerz="7" radius="1">
+		<monster name="Orshabaal" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1384" centerz="7" radius="1">
+		<monster name="Ghazbaran" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1384" centerz="7" radius="1">
+		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1010" centery="1385" centerz="7" radius="1">
+		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1016" centery="1385" centerz="7" radius="1">
+		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1022" centery="1385" centerz="7" radius="1">
+		<monster name="Undead Dragon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1386" centerz="7" radius="1">
+		<monster name="Hydra" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1386" centerz="7" radius="1">
+		<monster name="Ushuriel" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1388" centerz="7" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1388" centerz="7" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1060" centery="1388" centerz="7" radius="1">
+		<monster name="Latrivan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1066" centery="1388" centerz="7" radius="1">
+		<monster name="Latrivan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1114" centery="1388" centerz="7" radius="1">
+		<monster name="Hellgorak" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1390" centerz="7" radius="1">
+		<monster name="Ferumbras" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1390" centerz="7" radius="1">
+		<monster name="Madareth" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1109" centery="1390" centerz="7" radius="1">
+		<monster name="Hellgorak" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1392" centerz="7" radius="1">
+		<monster name="Hellgorak" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1392" centerz="7" radius="1">
+		<monster name="Latrivan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="962" centery="1394" centerz="7" radius="1">
+		<monster name="Bazir" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1394" centerz="7" radius="1">
+		<monster name="Golgordan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="978" centery="1396" centerz="7" radius="1">
+		<monster name="Annihilon" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1013" centery="1425" centerz="7" radius="1">
+		<monster name="Madareth" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1019" centery="1425" centerz="7" radius="1">
+		<monster name="Madareth" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1109" centery="1430" centerz="7" radius="1">
+		<monster name="Bazir" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1117" centery="1430" centerz="7" radius="1">
+		<monster name="Bazir" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1061" centery="1432" centerz="7" radius="1">
+		<monster name="Golgordan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="1067" centery="1432" centerz="7" radius="1">
+		<monster name="Golgordan" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
 	<spawn centerx="2597" centery="3118" centerz="7" radius="1">
 		<monster name="Dragon Lord" x="0" y="0" z="7" spawntime="3600" />
 	</spawn>
