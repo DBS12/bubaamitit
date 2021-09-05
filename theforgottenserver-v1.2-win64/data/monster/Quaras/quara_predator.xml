@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Quara Predator" nameDescription="a quara predator" race="blood" experience="1600" speed="280" manacost="0">
-	<health now="2200" max="2200" />
+	<health now="4400" max="4400" />
 	<look type="20" corpse="6067" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-473" />
+		<attack name="melee" interval="2000" min="0" max="-2500" />
 	</attacks>
 	<defenses armor="45" defense="45">
 		<defense name="speed" interval="2000" chance="15" speedchange="270" duration="5000">

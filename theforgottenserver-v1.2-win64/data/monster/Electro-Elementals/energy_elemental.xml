@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Energy Elemental" nameDescription="an energy elemental" race="energy" experience="550" speed="200" manacost="0">
-	<health now="500" max="500" />
+	<health now="1500" max="1500" />
 	<look type="293" corpse="8966" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -18,7 +18,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-175" />
+		<attack name="melee" interval="2000" min="0" max="-900" />
 		<attack name="energy" interval="2000" chance="10" range="7" radius="2" target="1" min="-125" max="-252">
 			<attribute key="shootEffect" value="energy" />
 			<attribute key="areaEffect" value="energy" />

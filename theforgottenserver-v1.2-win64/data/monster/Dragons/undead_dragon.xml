@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Undead Dragon" nameDescription="an undead dragon" race="undead" experience="7200" speed="250" manacost="0">
-	<health now="8350" max="8350" />
+	<health now="16700" max="16700" />
 	<look type="231" corpse="6306" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-480" />
+		<attack name="melee" interval="2000" min="0" max="-750" />
 		<attack name="physical" interval="2000" chance="5" range="7" radius="4" target="1" min="-300" max="-400">
 			<attribute key="areaEffect" value="redspark" />
 		</attack>

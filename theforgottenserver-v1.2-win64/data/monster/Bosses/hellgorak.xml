@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Hellgorak" nameDescription="Hellgorak" race="blood" experience="10000" speed="360" manacost="0">
-	<health now="25850" max="25850" />
+	<health now="18095" max="18095" />
 	<look type="12" head="19" body="96" legs="21" feet="81" corpse="6068" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-910" />
+		<attack name="melee" interval="2000" min="0" max="-1350" />
 		<attack name="energy" interval="1000" chance="11" length="8" spread="0" min="-250" max="-819">
 			<attribute key="areaEffect" value="purpleenergy" />
 		</attack>
