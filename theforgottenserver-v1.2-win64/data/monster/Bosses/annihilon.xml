@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Annihilon" nameDescription="Annihilon" race="fire" experience="15000" speed="380" manacost="0">
-	<health now="32550" max="32550" />
+	<health now="37000" max="37000" />
 	<look type="12" head="19" body="104" legs="96" feet="96" corpse="6068" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-2550" />
+		<attack name="melee" interval="2000" min="0" max="-3750" />
 		<attack name="death" interval="1000" chance="11" length="8" spread="0" min="0" max="-600">
 			<attribute key="areaEffect" value="mortarea" />
 		</attack>

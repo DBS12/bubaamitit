@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Frost Dragon" nameDescription="a frost dragon" race="undead" experience="2100" speed="240" manacost="0">
-	<health now="1800" max="1800" />
+	<health now="4000" max="4000" />
 	<look type="248" corpse="7091" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="250" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-225" />
+		<attack name="melee" interval="2000" min="0" max="-1000" />
 		<attack name="lifedrain" interval="2000" chance="10" target="0" length="8" spread="3" min="-175" max="-380">
 			<attribute key="areaEffect" value="poff" />
 		</attack>

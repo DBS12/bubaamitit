@@ -2376,15 +2376,11 @@
 		<attribute key="absorbPercentDeath" value="80" />
 		<attribute key="showattributes" value="1" />
 	</item>
-	<item id="2198" article="an" name="elven amulet">
-		<attribute key="weight" value="270" />
-		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="50" />
-		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="5" />
-		<attribute key="absorbPercentMagic" value="5" />
-		<attribute key="showattributes" value="1" />
-	</item>
+	<item id="2198" article="a" name="Forever aol">
+        <attribute key="charges" value="1" />
+        <attribute key="weight" value="650" />
+        <attribute key="slotType" value="necklace" />
+    </item>
 	<item id="2199" article="a" name="garlic necklace">
 		<attribute key="weight" value="380" />
 		<attribute key="slotType" value="necklace" />
@@ -4456,9 +4452,11 @@
 		<attribute key="armor" value="1" />
 		<attribute key="slotType" value="feet" />
 	</item>
-	<item id="2644" name="bunnyslippers">
+	<item id="2644" name="Rich Boots">
 		<attribute key="weight" value="600" />
 		<attribute key="slotType" value="feet" />
+		<attribute key="speed" value="400" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2645" name="steel boots">
 		<attribute key="weight" value="2900" />
@@ -7346,13 +7344,13 @@
 		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
-	<item id="3965" article="a" name="hunting spear">
+	<item id="3965" article="a" name="Rich Spear">
 		<attribute key="weight" value="2200" />
-		<attribute key="attack" value="32" />
+		<attribute key="attack" value="250" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="huntingspear" />
 		<attribute key="maxHitChance" value="80" />
-		<attribute key="range" value="3" />
+		<attribute key="range" value="4" />
 	</item>
 	<item id="3966" article="a" name="banana staff">
 		<attribute key="weight" value="5000" />
@@ -20563,8 +20561,11 @@
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="60" />
 	</item>
-	<item id="12318" article="a" name="replica of the sceptre">
+	<item id="12318" article="a" name="Rich Rod">
 		<attribute key="weight" value="1400" />
+		<attribute key="weaponType" value="wand" />
+		<attribute key="shootType" value="holy" />
+		<attribute key="range" value="4" />
 	</item>
 	<item id="12320" article="a" name="flask of plant poison">
 		<attribute key="description" value="This plant poison is meant to destroy the growths near the Keeper's lair deep beneath the gardens." />
@@ -21247,33 +21248,34 @@
 	<item id="12641" article="a" name="cheese cookie">
 		<attribute key="weight" value="10" />
 	</item>
-	<item id="12642" article="a" name="royal draken mail">
+	<item id="12642" article="a" name="Rich Armor">
 		<attribute key="weight" value="13000" />
-		<attribute key="armor" value="16" />
+		<attribute key="armor" value="100" />
 		<attribute key="slotType" value="body" />
-		<attribute key="skillShield" value="3" />
+		<attribute key="skillShield" value="10" />
 		<attribute key="absorbPercentPhysical" value="5" />
 	</item>
-	<item id="12643" article="a" name="royal scale robe">
+	<item id="12643" article="a" name="Rich Legs">
 		<attribute key="weight" value="4500" />
-		<attribute key="armor" value="12" />
-		<attribute key="slotType" value="body" />
-		<attribute key="magiclevelpoints" value="2" />
+		<attribute key="armor" value="100" />
+		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentFire" value="5" />
+		<attribute key="magiclevelpoints" value="10" />
 	</item>
-	<item id="12644" article="a" name="shield of corruption">
+	<item id="12644" article="a" name="Rich Shield">
 		<attribute key="weight" value="4900" />
-		<attribute key="defense" value="36" />
-		<attribute key="skillSword" value="3" />
+		<attribute key="defense" value="100" />
+		<attribute key="skillSword" value="10" />
 		<attribute key="weaponType" value="shield" />
 		<attribute key="showattributes" value="1" />
+		<attribute key="magiclevelpoints" value="10" />
 	</item>
-	<item id="12645" article="an" name="elite draken helmet">
+	<item id="12645" article="an" name="Rich Helmet">
 		<attribute key="weight" value="4300" />
-		<attribute key="armor" value="9" />
+		<attribute key="armor" value="100" />
 		<attribute key="slotType" value="head" />
 		<attribute key="absorbPercentDeath" value="3" />
-		<attribute key="skillDist" value="1" />
+		<attribute key="skillDist" value="10" />
 	</item>
 	<item id="12646" name="draken boots">
 		<attribute key="armor" value="3" />
@@ -21295,12 +21297,12 @@
 		<attribute key="weaponType" value="club" />
 		<attribute key="extradef" value="3" />
 	</item>
-	<item id="12649" article="a" name="blade of corruption">
+	<item id="12649" article="a" name="Rich Sword">
 		<attribute key="weight" value="6400" />
-		<attribute key="defense" value="29" />
-		<attribute key="attack" value="48" />
+		<attribute key="defense" value="250" />
+		<attribute key="attack" value="250" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="2" />
+		<attribute key="extradef" value="10" />
 	</item>
 	<item id="12650" article="a" name="snake god trophy">
 		<attribute key="weight" value="500" />

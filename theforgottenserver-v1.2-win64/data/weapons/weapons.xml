@@ -37,6 +37,11 @@
 	<wand id="18412" level="65" mana="17" min="70" max="100" type="ice"> <!-- Glacial Rod -->
 		<vocation name="Druid" />
 	</wand>
+	
+	<wand id="12318" level="8" mana="1" min="250" max="250" type="holy"> <!-- Rich Rod -->
+		<vocation name="Druid" />
+		<vocation name="Sorcerer" />
+	</wand>
 
 	<!-- Wands -->
 	<wand id="23719" level="1" mana="1" min="3" max="7" type="fire"> <!-- The Scorcher -->
@@ -80,6 +85,7 @@
 	</wand>
 
 	<!-- Swords -->
+	
 	<melee id="2396" action="removecharge" />
 	<melee id="2413" unproperly="1">
 		<vocation name="Knight" />
@@ -168,7 +174,7 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="11307" level="55" unproperly="1" />
-	<melee id="12649" level="82" unproperly="1" />
+	<melee id="12649" level="8" unproperly="1" />
 	<melee id="12613" level="58" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -679,7 +685,7 @@
 	<distance id="2545" action="removecount" script="poison_arrow.lua" />
 	<distance id="2546" action="removecount" script="burst_arrow.lua" />
 	<distance id="2547" action="removecount" unproperly="1" level="55" /> <!-- Power Bolt -->
-	<distance id="3965" breakchance="6" unproperly="1" level="20" /> <!-- Hunting Spear -->
+	<distance id="3965" breakchance="6" unproperly="1" level="8" /> <!-- Hunting Spear -->
 	<distance id="6529" action="removecount" unproperly="1" level="110" /> <!-- Infernal Bolt -->
 	<distance id="7363" action="removecount" unproperly="1" level="30" /> <!-- Piercing Bolt -->
 	<distance id="7364" action="removecount" unproperly="1" level="20" /> <!-- Sniper Arrow -->

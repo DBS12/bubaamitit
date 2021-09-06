@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Bazir" nameDescription="Bazir" race="fire" experience="30000" speed="530" manacost="0">
-	<health now="77000" max="77000" />
+	<health now="38000" max="38000" />
 	<look type="35" head="0" body="0" legs="0" feet="0" corpse="2916" />
 	<targetchange interval="2000" chance="10" />
 	<flags>
@@ -16,7 +16,7 @@
 		<flag runonhealth="3000" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-3950" />
+		<attack name="melee" interval="2000" min="0" max="-2950" />
 		<attack name="manadrain" interval="1000" chance="7" range="7" min="-100" max="-1000">
 			<attribute key="shootEffect" value="energy" />
 			<attribute key="areaEffect" value="poff" />
@@ -56,10 +56,10 @@
 		</attack>
 	</attacks>
 	<defenses armor="160" defense="160">
-		<defense name="healing" interval="1000" chance="15" min="5000" max="10000">
+		<defense name="healing" interval="1000" chance="15" min="0" max="0">
 			<attribute key="areaEffect" value="blueshimmer" />
 		</defense>
-		<defense name="healing" interval="1000" chance="25" min="2000" max="3000">
+		<defense name="healing" interval="1000" chance="25" min="0" max="0">
 			<attribute key="areaEffect" value="blueshimmer" />
 		</defense>
 		<defense name="speed" interval="1000" chance="8" speedchange="1901" duration="5000">

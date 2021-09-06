@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Ushuriel" nameDescription="Ushuriel" race="fire" experience="10500" speed="350" manacost="0">
-	<health now="22050" max="22050" />
+	<health now="28000" max="28000" />
 	<look type="12" head="0" body="95" legs="19" feet="112" corpse="6068" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-1500" />
+		<attack name="melee" interval="2000" min="0" max="-4500" />
 		<attack name="physical" interval="1000" chance="10" length="10" spread="0" min="-250" max="-500">
 			<attribute key="areaEffect" value="mortarea" />
 		</attack>
