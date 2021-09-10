@@ -403,7 +403,21 @@ function doPlayerPopupFYI(cid, message) local p = Player(cid) return p ~= nil an
 function doSendTutorial(cid, tutorialId) local p = Player(cid) return p ~= nil and p:sendTutorial(tutorialId) or false end
 function doAddMapMark(cid, pos, type, description) local p = Player(cid) return p ~= nil and p:addMapMark(pos, type, description or "") or false end
 function doPlayerSendTextMessage(cid, type, text, ...) local p = Player(cid) return p ~= nil and p:sendTextMessage(type, text, ...) or false end
-function doSendAnimatedText() debugPrint("Deprecated function.") return true end
+function doSendAnimatedText(pos, value, color, player)
+    if(not tonumber(value))then
+        return error("arg #2 in doSendAnimatedText is not a number")
+    end
+    
+    if(isPlayer(player))then
+        doPlayerSendTextMessage(player, MESSAGE_EXPERIENCE, "", pos, value, color)
+    else
+        for _, v in ipairs(getSpectators(pos, 7, 5, true)) do
+            if(isPlayer(v))then
+                doPlayerSendTextMessage(v, MESSAGE_EXPERIENCE, "", pos, value, color)
+            end
+        end
+    end
+end
 function doPlayerAddExp(cid, exp, useMult, ...)
 	local player = Player(cid)
 	if player == nil then

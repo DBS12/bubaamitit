@@ -32,5 +32,9 @@ function onLogin(player)
 	-- Events
 	player:registerEvent("PlayerDeath")
 	player:registerEvent("DropLoot")
+	player:loadVipData()
+    player:updateVipTime()
 	return true
 end
+
+

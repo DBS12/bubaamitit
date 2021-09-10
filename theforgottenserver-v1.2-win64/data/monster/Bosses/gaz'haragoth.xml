@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Gaz'haragoth" nameDescription="Gaz'haragoth" race="undead" experience="1000000" speed="400" manacost="0">
-	<health now="245000" max="245000" />
+	<health now="80000" max="80000" />
 	<look type="591" head="0" body="94" legs="79" feet="79" corpse="22562" />
 	<targetchange interval="10000" chance="20" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-7500" />
+		<attack name="melee" interval="2000" min="0" max="-6250" />
 		<attack name="ice" interval="3000" chance="35" range="7" radius="7" target="1" min="-900" max="-1100">
 				<attribute key="shootEffect" value="ice" />
 				<attribute key="areaEffect" value="icearea" />

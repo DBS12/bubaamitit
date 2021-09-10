@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Leviathan" nameDescription="Leviathan" race="blood" experience="5000" speed="758" manacost="0">
-	<health now="12000" max="12000" />
+	<health now="6000" max="6000" />
 	<look type="275" corpse="8307" />
 	<targetchange interval="2000" chance="50" />
 	<flags>
@@ -16,7 +16,7 @@
 		<flag runonhealth="600" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-900" />
+		<attack name="melee" interval="2000" min="0" max="-298" />
 		<attack name="earth" interval="1000" chance="8" length="9" spread="3" min="-130" max="-460">
 			<attribute key="areaEffect" value="bigplants" />
 		</attack>

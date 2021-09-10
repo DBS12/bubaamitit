@@ -61,7 +61,6 @@
 		<item name="plate legs" chance="4280" />
 		<item name="meat" countmax="2" chance="9000" />
 		<item id="2667" countmax="2" chance="10800" /><!-- fish -->
-		<item name="hunting spear" chance="5260" />
 		<item id="7395" chance="50" /><!-- orc trophy -->
 		<item name="health potion" chance="470" />
 		<item name="magma boots" chance="280" />

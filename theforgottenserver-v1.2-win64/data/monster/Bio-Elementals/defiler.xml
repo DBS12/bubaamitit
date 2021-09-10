@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Defiler" nameDescription="a defiler" race="venom" experience="3700" speed="230" manacost="0">
-	<health now="4000" max="4000" />
+	<health now="3650" max="3650" />
 	<look type="238" corpse="6532" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="85" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-1500" poison="150" />
+		<attack name="melee" interval="2000" min="0" max="-240" poison="150" />
 		<attack name="earth" interval="2000" chance="20" range="7" min="-160" max="-270">
 			<attribute key="shootEffect" value="poison" />
 		</attack>

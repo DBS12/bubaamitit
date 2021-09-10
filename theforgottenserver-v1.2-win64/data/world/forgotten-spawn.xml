@@ -156,6 +156,481 @@
 	<spawn centerx="664" centery="860" centerz="6" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="6" spawntime="3600" />
 	</spawn>
+	<spawn centerx="71" centery="4" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-6" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Infernatil" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="4" y="2" z="7" spawntime="60" />
+		<monster name="Azerus" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="4" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-5" y="5" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-3" y="5" z="7" spawntime="60" />
+		<monster name="Azerus" x="0" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="6" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-5" y="7" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-2" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="6" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="5" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="7" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="7" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="2" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="15" centery="9" centerz="7" radius="5">
+		<monster name="Gaz'haragoth" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="30" centery="10" centerz="7" radius="5">
+		<monster name="Magicthrower" x="-5" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="72" centery="15" centerz="7" radius="7">
+		<monster name="Gaz'haragoth" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-7" y="-1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-5" y="-1" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-7" y="0" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Bazir" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-7" y="2" z="7" spawntime="60" />
+		<monster name="Infernatil" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Infernatil" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Bazir" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-7" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-7" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="65" centery="17" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-4" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="11" centery="26" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-5" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="5" y="-1" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="5" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="28" centery="26" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="4" y="-1" z="7" spawntime="60" />
+		<monster name="Bazir" x="6" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="26" centerz="7" radius="7">
+		<monster name="Fire Devil" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="4" y="-1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Bazir" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="5" y="0" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="6" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Infernatil" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="5" y="2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="4" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="3" y="4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="0" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="2" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="6" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="28" centerz="7" radius="7" />
+	<spawn centerx="110" centery="29" centerz="7" radius="7">
+		<monster name="Morgaroth" x="0" y="-6" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="2" y="-6" z="7" spawntime="60" />
+		<monster name="Bazir" x="-1" y="-5" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="3" y="-5" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="-2" y="-4" z="7" spawntime="60" />
+		<monster name="Infernatil" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-5" y="-1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Azerus" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="5" y="-1" z="7" spawntime="60" />
+		<monster name="Bazir" x="7" y="-1" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Infernatil" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Infernatil" x="5" y="1" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="-4" y="2" z="7" spawntime="60" />
+		<monster name="Azerus" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="6" y="2" z="7" spawntime="60" />
+		<monster name="Bazir" x="-5" y="3" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="5" y="3" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="7" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-2" y="4" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="4" y="4" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-3" y="5" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="-1" y="5" z="7" spawntime="60" />
+		<monster name="Infernatil" x="1" y="5" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="5" y="5" z="7" spawntime="60" />
+		<monster name="Bazir" x="-1" y="7" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="3" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="112" centery="32" centerz="7" radius="7">
+		<monster name="Morgaroth" x="6" y="-3" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="6" y="-1" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-2" y="5" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="5" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="10" centery="42" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-5" y="-4" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-3" y="-4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-4" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="2" y="-4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="-3" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="47" centery="45" centerz="7" radius="7">
+		<monster name="Fire Devil" x="-7" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-4" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-5" y="-1" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-7" y="0" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-4" y="0" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-7" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Bazir" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-7" y="3" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-7" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-6" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-3" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="6" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="34" centery="47" centerz="7" radius="7">
+		<monster name="Fire Devil" x="-1" y="-5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="-5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="3" y="-5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="5" y="-5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="-4" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Azerus" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="5" y="-1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="4" y="0" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="3" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="17" centery="54" centerz="7" radius="7">
+		<monster name="Magicthrower" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="0" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-6" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-6" y="2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-4" y="2" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-7" y="4" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-4" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="5" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="-6" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="6" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-7" y="7" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="-3" y="7" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="7" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="7" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="10" centery="55" centerz="7" radius="7">
+		<monster name="Ghazbaran" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="6" z="7" spawntime="60" />
+		<monster name="Quara Pincher" x="0" y="7" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="7" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="4" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="14" centery="61" centerz="7" radius="7">
+		<monster name="Apocalypse" x="-6" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-6" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="2" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-3" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-2" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="5" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="7" centery="63" centerz="7" radius="7" />
+	<spawn centerx="28" centery="77" centerz="7" radius="7">
+		<monster name="Magicthrower" x="4" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="6" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Bazir" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Bazir" x="7" y="0" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Infernatil" x="5" y="1" z="7" spawntime="60" />
+		<monster name="Infernatil" x="7" y="1" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="6" y="2" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-6" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-4" y="4" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="2" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="4" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="5" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="6" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-6" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-4" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="4" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="5" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="6" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-6" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-5" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="4" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="5" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="6" y="6" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="-1" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="36" centery="80" centerz="7" radius="7">
+		<monster name="Magicthrower" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="-4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="-4" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Orshabaal" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="6" y="1" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="7" y="1" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="6" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="7" y="2" z="7" spawntime="60" />
+		<monster name="Ghazbaran" x="4" y="3" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="6" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="7" y="3" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-1" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-7" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="6" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="6" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="-7" y="7" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="-5" y="7" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="7" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="7" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="3" y="7" z="7" spawntime="60" />
+		<monster name="Gaz'haragoth" x="5" y="7" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="6" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="28" centery="83" centerz="7" radius="7">
+		<monster name="Gaz'haragoth" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Apocalypse" x="-6" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="-1" y="5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="5" z="7" spawntime="60" />
+		<monster name="Fire Devil" x="1" y="5" z="7" spawntime="60" />
+		<monster name="Morgaroth" x="4" y="6" z="7" spawntime="60" />
+		<monster name="Juggernaut" x="7" y="6" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="24" centery="86" centerz="7" radius="7" />
+	<spawn centerx="32" centery="86" centerz="7" radius="7">
+		<monster name="Fire Devil" x="5" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="6" y="2" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="7" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="86" centerz="7" radius="7">
+		<monster name="Magicthrower" x="2" y="-5" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="-4" z="7" spawntime="60" />
+		<monster name="Magicthrower" x="2" y="-3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="635" centery="845" centerz="7" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="7" spawntime="3600" />
 	</spawn>

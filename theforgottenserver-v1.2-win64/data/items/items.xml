@@ -7346,11 +7346,11 @@
 	</item>
 	<item id="3965" article="a" name="Rich Spear">
 		<attribute key="weight" value="2200" />
-		<attribute key="attack" value="250" />
+		<attribute key="attack" value="150" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="huntingspear" />
-		<attribute key="maxHitChance" value="80" />
-		<attribute key="range" value="4" />
+		<attribute key="maxHitChance" value="99" />
+		<attribute key="range" value="10" />
 	</item>
 	<item id="3966" article="a" name="banana staff">
 		<attribute key="weight" value="5000" />
@@ -9180,7 +9180,7 @@
 	<item fromid="5775" toid="5776" name="" />
 	<item fromid="5777" toid="5778" article="a" name="target board" />
 	<item fromid="5779" toid="5784" article="a" name="stuck arrow" />
-	<item id="5785" article="a" name="medal of honour">
+	<item id="5785" article="a" name="Vip Medal">
 		<attribute key="weight" value="1000" />
 		<attribute key="writeable" value="1" />
 		<attribute key="maxTextLen" value="128" />
@@ -12453,11 +12453,11 @@
 	</item>
 	<item id="7368" article="an" name="assassin star">
 		<attribute key="weight" value="200" />
-		<attribute key="attack" value="65" />
-		<attribute key="maxHitChance" value="96" />
+		<attribute key="attack" value="150" />
+		<attribute key="maxHitChance" value="99" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="redstar" />
-		<attribute key="range" value="4" />
+		<attribute key="range" value="10" />
 	</item>
 	<item id="7369" article="a" name="golden trophy">
 		<attribute key="weight" value="3500" />
@@ -13488,9 +13488,11 @@
 		<attribute key="maxTextLen" value="1023" />
 		<attribute key="writeOnceItemId" value="7722" />
 	</item>
-	<item id="7724" article="a" name="scroll">
+	<item id="7724" article="a" name="Permanent Ban Scroll">
 		<attribute key="weight" value="100" />
+		<attribute key="description" value="You Won A Permanent Ban." />
 		<attribute key="writeable" value="1" />
+		<attribute key="maxTextLen" value="1023" />
 	</item>
 	<item id="7725" article="a" name="blank scroll">
 		<attribute key="weight" value="100" />
@@ -18696,9 +18698,11 @@
 		<attribute key="corpseType" value="undead" />
 	</item>
 	<item id="10501" article="a" name="dead tree" />
-	<item id="10502" article="an" name="engraved wedding ring">
+	<item id="10502" article="an" name="Rich Ring">
 		<attribute key="weight" value="40" />
 		<attribute key="slotType" value="ring" />
+		<attribute key="speed" value="400" />
+		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="10503" article="a" name="wedding outfit box">
 		<attribute key="weight" value="2500" />
@@ -20565,7 +20569,7 @@
 		<attribute key="weight" value="1400" />
 		<attribute key="weaponType" value="wand" />
 		<attribute key="shootType" value="holy" />
-		<attribute key="range" value="4" />
+		<attribute key="range" value="6" />
 	</item>
 	<item id="12320" article="a" name="flask of plant poison">
 		<attribute key="description" value="This plant poison is meant to destroy the growths near the Keeper's lair deep beneath the gardens." />
@@ -21252,7 +21256,7 @@
 		<attribute key="weight" value="13000" />
 		<attribute key="armor" value="100" />
 		<attribute key="slotType" value="body" />
-		<attribute key="skillShield" value="10" />
+		<attribute key="skillShield" value="5" />
 		<attribute key="absorbPercentPhysical" value="5" />
 	</item>
 	<item id="12643" article="a" name="Rich Legs">
@@ -21260,22 +21264,21 @@
 		<attribute key="armor" value="100" />
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentFire" value="5" />
-		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="magiclevelpoints" value="5" />
 	</item>
 	<item id="12644" article="a" name="Rich Shield">
 		<attribute key="weight" value="4900" />
 		<attribute key="defense" value="100" />
-		<attribute key="skillSword" value="10" />
+		<attribute key="skillSword" value="5" />
 		<attribute key="weaponType" value="shield" />
 		<attribute key="showattributes" value="1" />
-		<attribute key="magiclevelpoints" value="10" />
 	</item>
 	<item id="12645" article="an" name="Rich Helmet">
 		<attribute key="weight" value="4300" />
 		<attribute key="armor" value="100" />
 		<attribute key="slotType" value="head" />
 		<attribute key="absorbPercentDeath" value="3" />
-		<attribute key="skillDist" value="10" />
+		<attribute key="skillDist" value="5" />
 	</item>
 	<item id="12646" name="draken boots">
 		<attribute key="armor" value="3" />
@@ -21299,10 +21302,10 @@
 	</item>
 	<item id="12649" article="a" name="Rich Sword">
 		<attribute key="weight" value="6400" />
-		<attribute key="defense" value="250" />
-		<attribute key="attack" value="250" />
+		<attribute key="defense" value="50" />
+		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="10" />
+		<attribute key="extradef" value="5" />
 	</item>
 	<item id="12650" article="a" name="snake god trophy">
 		<attribute key="weight" value="500" />
@@ -22926,8 +22929,8 @@
 		<attribute key="description" value="It contains highly intensified poison against vermin." />
 		<attribute key="weight" value="180" />
 	</item>
-	<item id="14324" article="a" name="scroll">
-		<attribute key="description" value="The correspondence written on this scroll could be considered quite compromising." />
+	<item id="14324" article="a" name="House Tp Scroll">
+		<attribute key="description" value="" />
 		<attribute key="weight" value="120" />
 	</item>
 	<item id="14325" name="intelligence reports">
@@ -30232,68 +30235,7 @@
 	<item id="22699" article="a" name="cake tapestry">
 		<attribute key="weight" value="1000" />
 	</item>
-	<item id="22814" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22815" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22816" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22817" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22818" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22819" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22820" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22821" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22822" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22823" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22824" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22825" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22826" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22827" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22828" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22829" article="an" name="open door">
-		<attribute key="type" value="door" />
-	</item>
-	<item id="22830" article="a" name="closed door">
-		<attribute key="type" value="door" />
-		<attribute key="blockprojectile" value="1" />
-	</item>
-	<item id="22831" article="an" name="open door">
+	<item fromid="22814" toid="22831" article="a" name="door" >
 		<attribute key="type" value="door" />
 	</item>
 	<item fromid="22840" toid="22842" article="a" name="hole">

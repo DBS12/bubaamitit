@@ -1,23 +1,12 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="" houseid="1" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="2" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="3" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="4" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="5" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="6" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="7" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="8" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="" houseid="9" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="262" />
-	<house name="Unnamed House #11" houseid="11" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #12" houseid="12" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #13" houseid="13" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #14" houseid="14" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #15" houseid="15" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #16" houseid="16" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #17" houseid="17" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #18" houseid="18" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #19" houseid="19" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #20" houseid="20" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
-	<house name="Unnamed House #21" houseid="21" entryx="0" entryy="0" entryz="0" rent="0" townid="2" size="2" />
+	<house name="Buba's House #1" houseid="27" entryx="991" entryy="1013" entryz="7" rent="0" townid="2" size="63" />
+	<house name="Buba's House #2" houseid="28" entryx="1010" entryy="1013" entryz="7" rent="0" townid="2" size="53" />
+	<house name="Buba's House #3" houseid="29" entryx="1018" entryy="1009" entryz="7" rent="0" townid="2" size="31" />
+	<house name="Buba's House #4" houseid="30" entryx="1025" entryy="1009" entryz="7" rent="0" townid="2" size="31" />
+	<house name="Buba's House #5" houseid="31" entryx="1031" entryy="1009" entryz="7" rent="0" townid="2" size="69" />
+	<house name="Buba's House #6" houseid="32" entryx="983" entryy="1008" entryz="7" rent="0" townid="2" size="37" />
+	<house name="Buba's House #7" houseid="34" entryx="1019" entryy="996" entryz="7" rent="0" townid="2" size="50" />
+	<house name="Buba's House #8" houseid="35" entryx="978" entryy="1011" entryz="7" rent="0" townid="2" size="24" />
+	<house name="Buba's House #9" houseid="36" entryx="982" entryy="993" entryz="7" rent="0" townid="2" size="35" />
 </houses>

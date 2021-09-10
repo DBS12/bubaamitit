@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Yeti" nameDescription="Yeti" race="blood" experience="460" speed="270" manacost="0">
-	<health now="5000" max="5000" />
+	<health now="950" max="950" />
 	<look type="110" corpse="6038" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-1000" />
+		<attack name="melee" interval="2000" min="0" max="-200" />
 		<attack name="physical" interval="1000" chance="15" range="7" min="0" max="-180">
 			<attribute key="shootEffect" value="snowball" />
 			<attribute key="areaEffect" value="poff" />
@@ -41,7 +41,6 @@
 		<item name="snowball" countmax="22" chance="10000" />
 		<item name="gold coin" countmax="60" chance="100000" />
 		<item name="gold coin" countmax="40" chance="100000" />
-		<item name="bunnyslippers" chance="1333" />
 		<item name="meat" countmax="4" chance="33333" />
 		<item name="ham" countmax="5" chance="10000" />
 	</loot>

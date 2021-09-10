@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movements>
 	<!-- Decaying tiles -->
+	<movevent event="StepIn" itemid="8753" script="mwstep.lua"/>
 	<movevent event="StepIn" actionid="3006" script="tpscroll.lua"/>
 	<movevent event="StepIn" itemid="293" script="decay.lua" />
 	<movevent event="StepIn" itemid="461" script="decay.lua" />
 	
 
 	<!-- (Depot & Level) tiles -->
+	<movevent event="StepIn" actionid="11115" script="NeedItemForQuest5.lua"/>
+	<movevent event="StepIn" actionid="11114" script="NeedItemForQuest4.lua"/>
+	<movevent event="StepIn" actionid="11113" script="NeedItemForQuest3.lua"/>
+	<movevent event="StepIn" actionid="11112" script="NeedItemForQuest2.lua"/>
+	<movevent event="StepIn" actionid="11111" script="NeedItemForQuest.lua"/>
 	<movevent event="StepIn" itemid="416" script="tiles.lua" />
 	<movevent event="StepOut" itemid="417" script="tiles.lua" />
 	<movevent event="StepIn" itemid="426" script="tiles.lua" />

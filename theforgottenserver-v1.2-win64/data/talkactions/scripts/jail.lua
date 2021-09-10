@@ -2,18 +2,18 @@ local config = {
     -- List of players that cannot be jailed
     blacklist = {'Summ', 'Admin'},
     -- if true you can even jail other GMs :)
-    canJailAccess = true,
+    canJailAccess = false,
 
     -- if true it will not show the name of the Staff member that used the command
     anonymous = false,
 
     -- Position of your jail
-    jailPosition = Position(101, 116, 7),
+    jailPosition = Position(1015, 645, 10),
 
     -- if unjailToTemple is set to true it will teleport the player to their hometown
     -- otherwise it will use unjailPosition
     unjailToTemple = true,
-    unjailPosition = Position(95, 112, 7)
+    unjailPosition = Position(1000, 1001, 7)
 }
 
 

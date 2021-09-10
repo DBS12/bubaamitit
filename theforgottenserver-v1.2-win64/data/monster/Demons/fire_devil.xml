@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Fire Devil" nameDescription="a fire devil" race="blood" experience="145" speed="190" manacost="530">
-	<health now="2500" max="2500" />
+	<health now="200" max="200" />
 	<look type="40" corpse="5985" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -18,7 +18,7 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" min="0" max="-35" />
-		<attack name="fire" interval="2000" chance="20" range="7" radius="4" target="1" min="-600" max="-600">
+		<attack name="fire" interval="2000" chance="20" range="7" radius="4" target="1" min="-60" max="-90">
 			<attribute key="shootEffect" value="fire" />
 			<attribute key="areaEffect" value="firearea" />
 		</attack>

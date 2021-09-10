@@ -75,6 +75,5 @@
 		<item name="cobra crown" chance="10" />
 		<item name="draken boots" chance="600" />
 		<item name="snake god's wristguard" chance="80" />
-		<item name="blade of corruption" chance="20" />
 	</loot>
 </monster>

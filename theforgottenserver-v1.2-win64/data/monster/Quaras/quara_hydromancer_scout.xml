@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Quara Hydromancer Scout" nameDescription="a quara hydromancer scout" race="undead" experience="800" speed="240" manacost="0">
-	<health now="3300" max="3300" />
+	<health now="1100" max="1100" />
 	<look type="47" corpse="6066" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-600" poison="100" />
+		<attack name="melee" interval="2000" min="0" max="-80" poison="100" />
 		<attack name="ice" interval="2000" chance="10" length="8" spread="0" min="-100" max="-180">
 			<attribute key="areaEffect" value="greenspark" />
 		</attack>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 	<!-- Quests -->
+	<action actionid="2501" script="quests/chest1.lua" />
+	<action actionid="2502" script="quests/chest2.lua" />
+	<action actionid="2503" script="quests/chest3.lua" />
+	<action actionid="2504" script="quests/chest4.lua" />
+	<action actionid="2505" script="quests/chest5.lua" />
 	<action itemid="1740" script="quests/quests.lua" />
 	<action fromid="1747" toid="1749" script="quests/quests.lua" />
 	<action uniqueid="30015" script="quests/annihilator.lua" />
@@ -134,6 +139,25 @@
 	<action itemid="8918" script="other/spellbook.lua" />
 
 	<!-- Other -->
+	<action itemid="5785" script="other/Vip Medal.lua"/>
+	<action itemid="14324" script="other/housetpscroll.lua"/>
+	<action uniqueid="1001" script="other/StartItemRoom.lua" />
+	<action uniqueid="1002" script="other/StartItemRoom.lua" />
+	<action uniqueid="1003" script="other/StartItemRoom.lua" />
+	<action uniqueid="1004" script="other/StartItemRoom.lua" />
+	<action uniqueid="1005" script="other/StartItemRoom.lua" />
+	<action uniqueid="1006" script="other/StartItemRoom.lua" />
+	<action uniqueid="1007" script="other/StartItemRoom.lua" />
+	<action uniqueid="1008" script="other/StartItemRoom.lua" />
+	<action uniqueid="1009" script="other/StartItemRoom.lua" />
+	<action uniqueid="1010" script="other/StartItemRoom.lua" />
+	<action uniqueid="1011" script="other/StartItemRoom.lua" />
+	<action uniqueid="1012" script="other/StartItemRoom.lua" />
+	<action uniqueid="1013" script="other/StartItemRoom.lua" />
+	<action uniqueid="1014" script="other/StartItemRoom.lua" />
+	<action uniqueid="1015" script="other/StartItemRoom.lua" />
+	<action uniqueid="1016" script="other/StartItemRoom.lua" />
+	<action uniqueid="1017" script="other/StartItemRoom.lua" />
 	<action itemid="2307" script="other/HealthRune.lua"/>
 	<action itemid="2281" script="other/Manarune.lua"/>
 	<action itemid="2298" script="other/MixedRune.lua"/>

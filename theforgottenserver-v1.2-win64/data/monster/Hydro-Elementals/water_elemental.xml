@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Water Elemental" nameDescription="a water elemental" race="undead" experience="650" speed="220" manacost="0">
-	<health now="5000" max="5000" />
+	<health now="550" max="550" />
 	<look type="286" corpse="10499" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,7 +17,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-4800" poison="60" />
+		<attack name="melee" interval="2000" min="0" max="-160" poison="60" />
 		<attack name="drown" interval="2000" chance="10" target="1" range="7" radius="2" min="-125" max="-235">
 			<attribute key="areaEffect" value="bluebubble" />
 		</attack>

@@ -1,7 +1,10 @@
 local message = {
-    "Are you stuck somewhere? type !exit. Don't forget to report bug place with !bug command.",
+	"Change your oufit with !addon '<addon>",
     "To see full list of available commands type !commands.",
-    "Please report bugs with command !bug description. Your position when reporting is saved so please stay near bug position.",
+    "To see full list of available spells type !spells.",
+    "To see full list of diffrent types of highscore type!rank.",
+	"Dont forget to check your vip with !checkvip.",
+	"Always check your atrr points with !points.",
     }
 
 local i = 0

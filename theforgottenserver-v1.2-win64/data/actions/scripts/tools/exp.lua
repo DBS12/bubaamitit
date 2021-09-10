@@ -5,7 +5,7 @@ minimumLevel = 8,
 maximumLevel = 717217, -- for infinite type math.huge
 }
 local addExp = {
-[{config.minimumLevel, config.maximumLevel}] = 999999999
+[{config.minimumLevel, config.maximumLevel}] = 99999999
 }
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 local level = getPlayerLevel(cid)

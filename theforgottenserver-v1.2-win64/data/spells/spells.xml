@@ -87,7 +87,7 @@
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 	</instant>
-	<instant group="attack" spellid="124" name="Divine Caldera" words="exevo mas san" lvl="50" mana="160" prem="1" selftarget="1" cooldown="4000" groupcooldown="2000" needlearn="0" script="attack/divine_caldera.lua">
+	<instant group="attack" spellid="124" name="Divine Caldera" words="exevo mas san" lvl="50" mana="160" prem="1" selftarget="1" cooldown="1800" groupcooldown="1800" needlearn="0" script="attack/divine_caldera.lua">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 	</instant>
@@ -95,7 +95,7 @@
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 	</instant>
-	<instant group="attack" spellid="122" name="Divine Missile" words="exori san" lvl="40" mana="20" prem="1" range="4" casterTargetOrDirection="1" needlearn="0" blockwalls="1" cooldown="2000" groupcooldown="2000" script="attack/divine_missile.lua">
+	<instant group="attack" spellid="122" name="Divine Missile" words="exori san" lvl="40" mana="20" prem="1" range="4" casterTargetOrDirection="1" needlearn="0" blockwalls="1" cooldown="1800" groupcooldown="1800" script="attack/divine_missile.lua">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 	</instant>
@@ -129,7 +129,7 @@
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
-	<instant group="attack" spellid="111" name="Ethereal Spear" words="exori con" lvl="23" mana="25" prem="1" range="7" needtarget="1" cooldown="2000" groupcooldown="2000" blockwalls="1" needlearn="0" script="attack/ethereal_spear.lua">
+	<instant group="attack" spellid="111" name="Ethereal Spear" words="exori con" lvl="23" mana="25" prem="1" range="7" needtarget="1" cooldown="1800" groupcooldown="1800" blockwalls="1" needlearn="0" script="attack/ethereal_spear.lua">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 	</instant>
@@ -468,7 +468,7 @@
 	<rune group="attack" spellid="7" name="Lightest Missile" id="23723" allowfaruse="1" charges="10" lvl="1" cooldown="2000" groupcooldown="2000" maglv="0" needtarget="1" blocktype="solid" script="attack/lightest_missile.lua" />
 	<rune group="attack" spellid="8" name="Heavy Magic Missile" id="2311" allowfaruse="1" charges="0" lvl="25" cooldown="2000" groupcooldown="2000" maglv="3" needtarget="1" blocktype="solid" script="attack/heavy_magic_missile.lua" />
 	<rune group="attack" spellid="18" name="Explosion" id="2313" allowfaruse="1" charges="6" lvl="31" maglv="6" cooldown="2000" groupcooldown="2000" blocktype="solid" script="attack/explosion.lua" />
-	<rune group="attack" spellid="21" name="Sudden Death" id="2268" allowfaruse="1" charges="0" lvl="45" maglv="15" cooldown="1800" groupcooldown="1800" needtarget="1" blocktype="solid" script="attack/sudden_death.lua" />
+	<rune group="attack" spellid="21" name="Sudden Death" id="2268" allowfaruse="1" charges="0" lvl="45" maglv="15" cooldown="1000" groupcooldown="1000" needtarget="1" blocktype="solid" script="attack/sudden_death.lua" />
 	<rune group="attack" spellid="114" name="Icicle" id="2271" allowfaruse="1" charges="5" lvl="28" maglv="4" cooldown="2000" groupcooldown="2000" needtarget="1" script="attack/icicle.lua" />
 	<rune group="attack" spellid="115" name="Avalanche" id="2274" allowfaruse="1" charges="4" lvl="30" maglv="4" cooldown="2000" groupcooldown="2000" script="attack/avalanche.lua" />
 	<rune group="attack" spellid="116" name="Stone Shower" id="2288" allowfaruse="1" charges="4" lvl="28" maglv="4" cooldown="2000" groupcooldown="2000" script="attack/stone_shower.lua" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Crystal Spider" nameDescription="a crystal spider" race="undead" experience="900" speed="220" manacost="0">
-	<health now="4000" max="4000" />
+	<health now="1250" max="1250" />
 	<look type="263" corpse="7344" />
 	<targetchange interval="4000" chance="15" />
 	<flags>
@@ -18,7 +18,7 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-1500" poison="160" />
+		<attack name="melee" interval="2000" min="0" max="-250" poison="160" />
 		<attack name="speed" interval="2000" chance="15" range="7" radius="6" target="0" speedchange="-800" duration="15000">
 			<attribute key="areaEffect" value="poff" />
 		</attack>

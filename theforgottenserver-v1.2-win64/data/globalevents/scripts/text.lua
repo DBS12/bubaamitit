@@ -19,6 +19,7 @@ local effects = {
 	{position = Position(972, 629, 7), text = 'Yarin', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(972, 631, 7), text = 'Dor', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(972, 633, 7), text = 'Shlomi', effect = CONST_ME_DRAWBLOOD},
+	
 }
 
 function onThink(interval)

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Earth Elemental" nameDescription="an earth elemental" race="undead" experience="450" speed="220" manacost="0">
-	<health now="5000" max="5000" />
+	<health now="650" max="650" />
 	<look type="301" corpse="8933" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -18,7 +18,7 @@
 		<flag runonhealth="80" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-4200" />
+		<attack name="melee" interval="2000" min="0" max="-110" />
 		<attack name="earth" interval="2000" chance="10" range="7" target="1" min="-72" max="-105">
 			<attribute key="shootEffect" value="smallearth" />
 			<attribute key="areaEffect" value="greenbubble" />

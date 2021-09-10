@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talkactions>
 	<!-- commands -->
+	<talkaction words="!checkvip" separator=" " script="checkvip.lua"/>
+	<talkaction words="/vip" separator=" " script="vipcommand.lua" />
 	<talkaction words="/ban" separator=" " script="ban.lua" />
 	<talkaction words="/ipban" separator=" " script="ipban.lua" />
 	<talkaction words="/unban" separator=" " script="unban.lua" />
@@ -36,6 +38,7 @@
     <talkaction words="/unjail" separator=" " script="jail.lua" />
 
 	<!-- player talkactions -->
+	<talkaction words="!spells" script="spells.lua" />
 	<talkaction words="!points" script="sp.lua"/>
 	<talkaction words="!buypremium" script="buyprem.lua" />
 	<talkaction words="!buyhouse" script="buyhouse.lua" />

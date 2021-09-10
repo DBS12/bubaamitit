@@ -3,12 +3,13 @@
 worldType = "pvp"
 hotkeyAimbotEnabled = true
 protectionLevel = 50
-killsToRedSkull = 10
-killsToBlackSkull = 10
-pzLocked = 10000
+killsToRedSkull = 100
+killsToBlackSkull = 100
+pzLocked = 5000
 removeChargesFromRunes = true
+removeWeaponAmmunition = true
 timeToDecreaseFrags = 24 * 60 * 60 * 1000
-whiteSkullTime = 10000
+whiteSkullTime = 5000
 stairJumpExhaustion = 500
 experienceByKillingPlayers = true
 expFromPlayersLevelRange = 75
