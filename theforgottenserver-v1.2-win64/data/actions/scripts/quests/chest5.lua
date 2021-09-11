@@ -4,7 +4,7 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
         player:sendTextMessage(MESSAGE_INFO_DESCR, 'The chest is empty.')
     else
         player:sendTextMessage(MESSAGE_INFO_DESCR, 'You have found a token.')
-        player:addItem(9020, 2)
+		doPlayerAddItem(9020,100)
         item:setActionId(2505) --action ID you want the key to have here
         player:setStorageValue(6025, 0)
     end

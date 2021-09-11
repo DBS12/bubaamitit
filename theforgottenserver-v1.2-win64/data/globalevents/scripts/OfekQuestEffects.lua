@@ -3,10 +3,6 @@ local effects = {
     {position = Position(8009, 96, 7), text = 'Ah Kapra, lo ze lo A tamin li.'}, -- text only
     {position = Position(8009, 117, 7), text = 'Ah Kapra, lo ze lo C tamin li.', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8009, 127, 7), text = 'Ah Kapra, lo ze lo D tamin li.', effect = CONST_ME_DRAWBLOOD},
-	{position = Position(8013, 94, 7), text = 'Read Me!!', effect = CONST_ME_DRAWBLOOD},
-	{position = Position(8013, 104, 7), text = 'Read Me!!', effect = CONST_ME_DRAWBLOOD},
-	{position = Position(8013, 115, 7), text = 'Read Me!!', effect = CONST_ME_DRAWBLOOD},
-	{position = Position(8013, 125, 7), text = 'Read Me!!', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8029, 132, 7), text = 'A', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8031, 132, 7), text = 'B', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8033, 132, 7), text = 'C', effect = CONST_ME_DRAWBLOOD},
