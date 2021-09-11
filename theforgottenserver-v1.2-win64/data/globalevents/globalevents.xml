@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <globalevents>
-OfekQuestEffects
-	<globalevent name="vipEffect" interval="4000" script="vipEffect.lua"/>
+	<globalevent name="vipEffect" interval="5000" script="vipEffect.lua"/>
 	<globalevent name="globalTip" interval="180000" script="globalTip.lua"/>
 	<globalevent name="Clean" interval="3600000" script="clean.lua" />
 	<globalevent type="startup" name="ServerStartup" script="startup.lua" />
 	<globalevent type="record" name="PlayerRecord" script="record.lua" />
-	<globalevent name="text" interval="5000" script="text.lua"/>
-	<globalevent name="OfekQuestEffects" interval="5000" script="OfekQuestEffects.lua"/>
+	<globalevent name="text" interval="4000" script="text.lua"/>
+	<globalevent name="OfekQuestEffects" interval="4000" script="OfekQuestEffects.lua"/>
 	<!--
 	<globalevent name="timer_example" time="12:00:00" script="my_script.lua" />
 	-->

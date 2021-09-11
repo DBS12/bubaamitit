@@ -3,6 +3,7 @@ local effects = {
     {position = Position(8009, 96, 7), text = 'Ah Kapra, lo ze lo A tamin li.'}, -- text only
     {position = Position(8009, 117, 7), text = 'Ah Kapra, lo ze lo C tamin li.', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8009, 127, 7), text = 'Ah Kapra, lo ze lo D tamin li.', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(8044, 89, 7), text = 'Welcome To The Second Chpater!!', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8029, 132, 7), text = 'A', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8031, 132, 7), text = 'B', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8033, 132, 7), text = 'C', effect = CONST_ME_DRAWBLOOD},
@@ -48,7 +49,18 @@ local effects = {
 	{position = Position(8043, 158, 7), text = 'Temple', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8026, 62, 7), text = 'Easy', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8029, 62, 7), text = 'Hard', effect = CONST_ME_DRAWBLOOD},
-	{position = Position(8024, 59, 7), text = 'Read Me!!', effect = CONST_ME_TUTORIALARROW},
+	{position = Position(8028, 56, 7), text = 'Read Me!!', effect = CONST_ME_TUTORIALARROW},
+	{position = Position(8025, 155, 7), text = 'Winner Chest Only!!', effect = CONST_ME_TUTORIALARROW},
+	{position = Position(7667, 47, 7), text = 'Welcome To Bosses Chapter! There Are 9 Bosses, Becareful..', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7744, 47, 7), text = 'Boss Number #2', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7822, 46, 7), text = 'Boss Number #3', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7667, 104, 7), text = 'Boss Number #4', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7745, 103, 7), text = 'Boss Number #5', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7823, 103, 7), text = 'Boss Number #6', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7667, 159, 7), text = 'Boss Number #7', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7745, 159, 7), text = 'Boss Number #8', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7823, 159, 7), text = 'Final Boss, You Can Leave If You Want', effect = CONST_ME_DRAWBLOOD},
+	
 
 }
 

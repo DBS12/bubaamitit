@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
+	<event type="kill" name="bossKillEvent" script="bossKill.lua" />
 	<event type="modalwindow" name="skillPoints_modal" script="sp.lua"/>
     <event type="advance" name="skillPoints_advance" script="sp.lua"/>
     <event type="login" name="skillPoints_register" script="sp.lua"/>

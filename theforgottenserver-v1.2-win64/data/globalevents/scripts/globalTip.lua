@@ -2,7 +2,7 @@ local message = {
 	"Change your oufit with !addon '<addon>",
     "To see full list of available commands type !commands.",
     "To see full list of available spells type !spells.",
-    "To see full list of diffrent types of highscore type!rank.",
+    "To see full list of diffrent types of highscore type !rank.",
 	"Dont forget to check your vip with !checkvip.",
 	"Always check your atrr points with !points.",
     }

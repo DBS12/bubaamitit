@@ -34,6 +34,7 @@ function onLogin(player)
 	player:registerEvent("DropLoot")
 	player:loadVipData()
     player:updateVipTime()
+	player:registerEvent("bossKillEvent")
 	return true
 end
 

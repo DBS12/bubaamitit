@@ -11462,7 +11462,10 @@
 	<item id="6540" article="a" name="piece of Massacre's shell">
 		<attribute key="weight" value="6500" />
 	</item>
-	<item fromid="6541" toid="6545" article="a" name="Buba's Egg">
+	<item fromid="6541" toid="6544" article="a" name="Buba's Egg">
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="6545" name="Admin Egg">
 		<attribute key="weight" value="30" />
 	</item>
 	<item id="6546" name="Dracola's eye">

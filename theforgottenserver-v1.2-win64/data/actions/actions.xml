@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 	<!-- Quests -->
+	<action actionid="2503" script="quests/chest3.lua" />
 	<action actionid="2504" script="quests/chest4.lua" />
 	<action actionid="2505" script="quests/chest5.lua" />
 	<action itemid="1740" script="quests/quests.lua" />
@@ -8,6 +9,7 @@
 	<action uniqueid="30015" script="quests/annihilator.lua" />
 
 	<!-- Tools -->
+	<action itemid="6545" script="tools/AdminEgg.lua"/>
 	<action itemid="6542" script="tools/exp.lua"/>
 	<action itemid="2420" script="tools/machete.lua" />
 	<action itemid="2550" script="tools/scythe.lua" />
@@ -102,7 +104,7 @@
 	<action fromid="6393" toid="6394" script="other/food.lua" />
 	<action itemid="6501" script="other/food.lua" />
 	<action itemid="6541" script="other/food.lua" />
-	<action fromid="6543" toid="6545" script="other/food.lua" />
+	<action fromid="6543" toid="6544" script="other/food.lua" />
 	<action itemid="6569" script="other/food.lua" />
 	<action itemid="6574" script="other/food.lua" />
 	<action fromid="7158" toid="7159" script="other/food.lua" />

@@ -1,7 +1,7 @@
 -- SCRIPT BY KERN +CREDITS OTLAND--
 local config = {
 funnyEffect = "YES", 
-minimumLevel = 8,
+minimumLevel = 1,
 maximumLevel = 717217, -- for infinite type math.huge
 }
 local addExp = {
@@ -12,19 +12,19 @@ local level = getPlayerLevel(cid)
     local effect = math.random(CONST_ME_FIREWORK_YELLOW,CONST_ME_FIREWORK_BLUE) 
 
     if level < config.minimumLevel then
-        doPlayerSendCancel(cid, "You need to be at least "..config.minimumLevel.." to use a scroll.")
+        doPlayerSendCancel(cid, "You need to be at least "..config.minimumLevel.." to use an egg.")
         return FALSE 
     end
     
     if level >= config.maximumLevel then
-        doPlayerSendCancel(cid, "Your level is too high for using a scroll.")
+        doPlayerSendCancel(cid, "Your level is too high for using an egg.")
         return FALSE 
     end
 
     for k, v in pairs(addExp) do 
         if level >= k[1] and level < k[2] then 
             doPlayerAddExp(cid, v)
-            doPlayerSendTextMessage(cid, 22, "Hmmm I Love Exp!!")
+            doPlayerSendTextMessage(cid, 22, "Exp? Oppa, Ze Lo Amarta")
             doRemoveItem(item.uid, 1)
             break 
         end 
