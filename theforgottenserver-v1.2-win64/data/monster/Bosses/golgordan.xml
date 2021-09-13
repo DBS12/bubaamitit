@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Golgordan" nameDescription="Golgordan" race="fire" experience="10000" speed="350" manacost="0">
-	<health now="40000" max="40000" />
+	<health now="60000" max="60000" />
 	<look type="12" head="108" body="100" legs="105" feet="114" corpse="6068" />
 	<targetchange interval="7000" chance="10" />
 	<flags>
@@ -17,17 +17,17 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-575" />
-		<attack name="death" interval="3000" chance="15" length="8" spread="0" min="-250" max="-850">
+		<attack name="melee" interval="2000" min="-3000" max="-3000" />
+		<attack name="death" interval="3000" chance="15" length="8" spread="0" min="-1500" max="-1500">
 			<attribute key="areaEffect" value="mortarea" />
 		</attack>
-		<attack name="poisoncondition" interval="1000" chance="11" length="5" spread="2" min="-300" max="-350">
+		<attack name="poisoncondition" interval="1000" chance="11" length="5" spread="2" min="-1500" max="-1500">
 			<attribute key="areaEffect" value="poison" />
 		</attack>
-		<attack name="physical" interval="1000" chance="8" radius="6" target="0" min="-50" max="-955">
+		<attack name="physical" interval="1000" chance="8" radius="6" target="0" min="-1500" max="-1500">
 			<attribute key="areaEffect" value="groundshaker" />
 		</attack>
-		<attack name="fire" interval="2000" chance="15" radius="7" target="1" min="-50" max="-200">
+		<attack name="fire" interval="2000" chance="15" radius="7" target="1" min="-1500" max="-1500">
 			<attribute key="areaEffect" value="firearea" />
 		</attack>
 	</attacks>
@@ -39,7 +39,7 @@
 		<element firePercent="-5" />
 	</elements>
 	<immunities>
-		<immunity death="1" />
+		<immunity death="0" />
 	</immunities>
 	<voices interval="5000" chance="10">
 		<voice sentence="Latrivan your fool" yell="1" />

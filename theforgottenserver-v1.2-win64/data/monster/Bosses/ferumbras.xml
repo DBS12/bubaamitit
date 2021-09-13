@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="Ferumbras" nameDescription="Ferumbras" race="venom" experience="12000" speed="320" manacost="0">
-	<health now="50000" max="50000" />
+	<health now="30000" max="30000" />
 	<look type="229" corpse="6078" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
@@ -10,30 +10,30 @@
 		<flag illusionable="0" />
 		<flag convinceable="0" />
 		<flag pushable="0" />
-		<flag canpushitems="1" />
-		<flag canpushcreatures="1" />
+		<flag canpushitems="0" />
+		<flag canpushcreatures="0" />
 		<flag targetdistance="2" />
 		<flag staticattack="90" />
 		<flag runonhealth="2500" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-350" />
-		<attack name="manadrain" interval="2000" chance="20" range="7" min="-300" max="-700">
+		<attack name="melee" interval="2000" min="-800" max="-800" />
+		<attack name="manadrain" interval="2000" chance="20" range="7" min="-800" max="-800">
 			<attribute key="areaEffect" value="redshimmer" />
 		</attack>
-		<attack name="earth" interval="3000" chance="20" radius="6" target="0" min="-250" max="-550">
+		<attack name="earth" interval="3000" chance="20" radius="6" target="0" min="-800" max="-800">
 			<attribute key="areaEffect" value="poison" />
 		</attack>
-		<attack name="energy" interval="2000" chance="18" radius="6" target="0" min="-200" max="-400">
+		<attack name="energy" interval="2000" chance="18" radius="6" target="0" min="-800" max="-800">
 			<attribute key="areaEffect" value="energy" />
 		</attack>
-		<attack name="manadrain" interval="2000" chance="16" radius="6" target="0" min="-225" max="-375">
+		<attack name="manadrain" interval="2000" chance="16" radius="6" target="0" min="-800" max="-800">
 			<attribute key="areaEffect" value="redshimmer" />
 		</attack>
-		<attack name="lifedrain" interval="2000" chance="21" radius="6" target="0" min="-200" max="-450">
+		<attack name="lifedrain" interval="2000" chance="21" radius="6" target="0" min="-800" max="-800">
 			<attribute key="areaEffect" value="poff" />
 		</attack>
-		<attack name="effect" interval="3000" chance="20" radius="5" target="0" min="-200" max="-600">
+		<attack name="effect" interval="3000" chance="20" radius="5" target="0" min="-800" max="-800">
 			<attribute key="areaEffect" value="blackspark" />
 		</attack>
 		<attack name="firecondition" interval="3000" chance="20" range="7" radius="7" target="1" min="-200" max="-800">
@@ -45,13 +45,13 @@
 		</attack>
 	</attacks>
 	<defenses armor="100" defense="120">
-		<defense name="healing" interval="2000" chance="10" min="900" max="1500">
+		<defense name="healing" interval="2000" chance="10" min="0" max="0">
 			<attribute key="areaEffect" value="greenshimmer" />
 		</defense>
 		<defense name="speed" interval="3000" chance="30" speedchange="360" duration="7000">
 			<attribute key="areaEffect" value="blueshimmer" />
 		</defense>
-		<defense name="invisible" interval="4000" chance="20" duration="5000">
+		<defense name="invisible" interval="4000" chance="0" duration="5000">
 			<attribute key="areaEffect" value="blueshimmer" />
 		</defense>
 	</defenses>

@@ -51,7 +51,7 @@ local effects = {
 	{position = Position(8029, 62, 7), text = 'Hard', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(8028, 56, 7), text = 'Read Me!!', effect = CONST_ME_TUTORIALARROW},
 	{position = Position(8025, 155, 7), text = 'Winner Chest Only!!', effect = CONST_ME_TUTORIALARROW},
-	{position = Position(7667, 47, 7), text = 'Welcome To Bosses Chapter! There Are 9 Bosses, Becareful..', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7667, 47, 7), text = 'Welcome To Bosses Chapter! There Are 10 Bosses, Becareful..', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(7744, 47, 7), text = 'Boss Number #2', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(7822, 46, 7), text = 'Boss Number #3', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(7667, 104, 7), text = 'Boss Number #4', effect = CONST_ME_DRAWBLOOD},
@@ -59,7 +59,13 @@ local effects = {
 	{position = Position(7823, 103, 7), text = 'Boss Number #6', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(7667, 159, 7), text = 'Boss Number #7', effect = CONST_ME_DRAWBLOOD},
 	{position = Position(7745, 159, 7), text = 'Boss Number #8', effect = CONST_ME_DRAWBLOOD},
-	{position = Position(7823, 159, 7), text = 'Final Boss, You Can Leave If You Want', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7823, 159, 7), text = 'Boss Number #9', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7667, 214, 7), text = 'Final Boss, You Can Leave If You Want', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7504, 133, 6), text = 'This Is The Last Chapter!! Have Fun.. hehe', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7532, 105, 7), text = 'Take Me Please!!', effect = CONST_ME_TUTORIALARROW},
+	{position = Position(8056, 92, 7), text = 'Read Me!!', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(8056, 105, 7), text = 'Read Me!!', effect = CONST_ME_DRAWBLOOD},
+	{position = Position(7527, 110, 6), text = 'kol Ah Branza Lemata Tagidu Shalom NU!!', effect = CONST_ME_DRAWBLOOD},
 	
 
 }

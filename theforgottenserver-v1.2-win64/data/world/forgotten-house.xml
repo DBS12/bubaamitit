@@ -9,4 +9,11 @@
 	<house name="Buba's House #7" houseid="34" entryx="1019" entryy="996" entryz="7" rent="0" townid="2" size="50" />
 	<house name="Buba's House #8" houseid="35" entryx="978" entryy="1011" entryz="7" rent="0" townid="2" size="24" />
 	<house name="Buba's House #9" houseid="36" entryx="982" entryy="993" entryz="7" rent="0" townid="2" size="35" />
+	<house name="Buba's House #10" houseid="37" entryx="1035" entryy="996" entryz="7" rent="0" townid="2" size="50" />
+	<house name="Buba's House #11" houseid="38" entryx="1022" entryy="1018" entryz="7" rent="0" townid="2" size="27" />
+	<house name="Buba's House #12" houseid="39" entryx="987" entryy="984" entryz="7" rent="0" townid="2" size="15" />
+	<house name="Buba's House #13" houseid="40" entryx="993" entryy="984" entryz="7" rent="0" townid="2" size="18" />
+	<house name="Buba's House #15" houseid="41" entryx="1006" entryy="984" entryz="7" rent="0" townid="2" size="15" />
+	<house name="Buba's House #14" houseid="42" entryx="1012" entryy="984" entryz="7" rent="0" townid="2" size="18" />
+	<house name="Buba's House #16" houseid="43" entryx="963" entryy="998" entryz="7" rent="0" townid="2" size="63" />
 </houses>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="The Old Widow" nameDescription="The Old Widow" race="blood" experience="4200" speed="240" manacost="0">
-	<health now="3200" max="3200" />
+	<health now="150000" max="150000" />
 	<look type="208" corpse="5977" />
 	<targetchange interval="5000" chance="8" />
 	<flags>
@@ -17,8 +17,8 @@
 		<flag runonhealth="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-500" />
-		<attack name="earth" interval="1000" chance="15" range="7" min="-250" max="-300">
+		<attack name="melee" interval="2000" min="-6000" max="-6000" />
+		<attack name="earth" interval="1000" chance="15" range="7" min="-1250" max="-1250">
 			<attribute key="shootEffect" value="poison" />
 			<attribute key="areaEffect" value="poison" />
 		</attack>
@@ -39,7 +39,7 @@
 		</defense>
 	</defenses>
 	<immunities>
-		<immunity fire="1" />
+		<immunity fire="0" />
 		<immunity earth="1" />
 		<immunity lifedrain="1" />
 		<immunity outfit="1" />

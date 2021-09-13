@@ -6,7 +6,7 @@
 	<globalevent type="startup" name="ServerStartup" script="startup.lua" />
 	<globalevent type="record" name="PlayerRecord" script="record.lua" />
 	<globalevent name="text" interval="4000" script="text.lua"/>
-	<globalevent name="OfekQuestEffects" interval="4000" script="OfekQuestEffects.lua"/>
+	<globalevent name="OfekQuestEffects" interval="3500" script="OfekQuestEffects.lua"/>
 	<!--
 	<globalevent name="timer_example" time="12:00:00" script="my_script.lua" />
 	-->

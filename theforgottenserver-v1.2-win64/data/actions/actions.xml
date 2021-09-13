@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 	<!-- Quests -->
+	<action actionid="2502" script="quests/chest2.lua" />
 	<action actionid="2503" script="quests/chest3.lua" />
 	<action actionid="2504" script="quests/chest4.lua" />
 	<action actionid="2505" script="quests/chest5.lua" />

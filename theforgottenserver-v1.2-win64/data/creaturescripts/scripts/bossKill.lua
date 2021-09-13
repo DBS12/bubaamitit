@@ -1,7 +1,7 @@
 local portalId, t = 1387,
 {
-    ["demon"] = {
-        message = "You killed a Demon! Run To The Next Boss",
+    ["orshabaal"] = {
+        message = "You have defeated Orshabaal! Run To The Next Boss",
         config = {
             createPos = {x = 7708, y = 46, z = 7},
             toPos = {x = 7745, y = 49, z = 7},
@@ -9,11 +9,83 @@ local portalId, t = 1387,
             storage = 123
         }
     },
-    ["orshabaal"] = {
-        message = "You have defeated Orshabaal! Run To The Next Boss",
+    ["latrivan"] = {
+        message = "You have defeated Latrivan! Run To The Next Boss",
         config = {
             createPos = {x = 7785, y = 46, z = 7}, --NOTE: You may use empty brackets to create the portal where the monster dies.
             toPos = {x = 7823, y = 48, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["golgordan"] = {
+        message = "You have defeated Golgordan! Run To The Next Boss",
+        config = {
+            createPos = {x = 7863, y = 45, z = 7},
+            toPos = {x = 7668, y = 106, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["ghazbaran"] = {
+        message = "You have defeated Ghazbaran! Run To The Next Boss",
+        config = {
+            createPos = {x = 7708, y = 103, z = 7},
+            toPos = {x = 7746, y = 105, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["apocalypse"] = {
+        message = "You have defeated Apocalypse! Run To The Next Boss",
+        config = {
+            createPos = {x = 7786, y = 102, z = 7},
+            toPos = {x = 7824, y = 105, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["dracola"] = {
+        message = "You have defeated Dracola! Run To The Next Boss",
+        config = {
+            createPos = {x = 7864, y = 102, z = 7},
+            toPos = {x = 7668, y = 161, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["raging mage"] = {
+        message = "You have defeated Raging Mage! Run To The Next Boss",
+        config = {
+            createPos = {x = 7708, y = 158, z = 7},
+            toPos = {x = 7746, y = 161, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["the old widow"] = {
+        message = "You have defeated The Old Widow! Run To The Next Boss",
+        config = {
+            createPos = {x = 7786, y = 158, z = 7},
+            toPos = {x = 7824, y = 161, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["zugurosh"] = {
+        message = "You have defeated Zugurosh! Run To The Next Boss",
+        config = {
+            createPos = {x = 7864, y = 158, z = 7},
+            toPos = {x = 7668, y = 216, z = 7},
+            portalTime = 1, --minutes
+            storage = 123
+        }
+    },
+	["abyssador"] = {
+        message = "You have defeated Abyssador!! Eize Buba!!",
+        config = {
+            createPos = {x = 7708, y = 213, z = 7},
+            toPos = {x = 8029, y = 155, z = 7},
             portalTime = 1, --minutes
             storage = 123
         }

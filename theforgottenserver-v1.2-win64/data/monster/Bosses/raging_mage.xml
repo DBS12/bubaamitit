@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <monster name="raging mage" nameDescription="a raging mage" race="blood" experience="3250" speed="200" manacost="0">
-	<health now="3500" max="3500" />
+	<health now="100000" max="100000" />
 	<look type="416" corpse="13834" />
 	<targetchange interval="4000" chance="10" />
 	<flags>
@@ -17,28 +17,28 @@
 		<flag runonhealth="300" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="2000" min="0" max="-78" />
-		<attack name="energy" interval="2000" chance="35" range="7" target="1" radius="5" min="-100" max="-200">
+		<attack name="melee" interval="2000" min="-5000" max="-5000" />
+		<attack name="energy" interval="2000" chance="35" range="7" target="1" radius="5" min="-1000" max="-1000">
 			<attribute key="shootEffect" value="energyball" />
 			<attribute key="areaEffect" value="energy" />
 		</attack>
-		<attack name="manadrain" interval="2000" chance="15" range="7" min="-100" max="-200" />
+		<attack name="manadrain" interval="2000" chance="15" range="7" min="-1000" max="-1000" />
 		<attack name="energyfield" interval="2000" chance="15" range="7" radius="2" target="1">
 			<attribute key="shootEffect" value="energy" />
 		</attack>
-		<attack name="energy" interval="2000" chance="20" length="8" spread="0" min="-101" max="-300">
+		<attack name="energy" interval="2000" chance="20" length="8" spread="0" min="-1000" max="-1000">
 			<attribute key="areaEffect" value="bigclouds" />
 		</attack>
 	</attacks>
 	<defenses armor="25" defense="25" />
 	<elements>
 		<element physicalPercent="-25" />
-		<element deathPercent="15" />
+		<element deathPercent="-5" />
 	</elements>
 	<immunities>
 		<immunity energy="1" />
 		<immunity outfit="1" />
-		<immunity fire="1" />
+		<immunity fire="0" />
 		<immunity drunk="1" />
 		<immunity invisible="1" />
 	</immunities>
