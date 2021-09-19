@@ -2328,6 +2328,57 @@
 	<spawn centerx="35" centery="34" centerz="15" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="57" centery="52" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="52" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="54" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="55" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="55" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="57" centery="55" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="57" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="57" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="59" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="59" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="60" centerz="15" radius="1">
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="255" centery="60" centerz="15" radius="1">
 		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
