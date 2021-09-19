@@ -1348,12 +1348,16 @@
 	<spawn centerx="61" centery="30" centerz="14" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="52" centery="31" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="55" centery="31" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="58" centery="31" centerz="14" radius="1">
 		<monster name="Infernatil" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="22" centery="32" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
@@ -1363,6 +1367,7 @@
 	</spawn>
 	<spawn centerx="61" centery="32" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="64" centery="32" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
@@ -1379,12 +1384,20 @@
 	<spawn centerx="55" centery="33" centerz="14" radius="1">
 		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="58" centery="33" centerz="14" radius="1">
+		<monster name="The Handmaiden" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="20" centery="34" centerz="14" radius="1">
 		<monster name="Shaburak Lord" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="25" centery="34" centerz="14" radius="1">
 		<monster name="Infernatil" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Zavarash" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="34" centerz="14" radius="1">
+		<monster name="The Handmaiden" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="22" centery="35" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
@@ -1407,6 +1420,9 @@
 	</spawn>
 	<spawn centerx="58" centery="35" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="60" centery="35" centerz="14" radius="1">
+		<monster name="Yielothax" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="65" centery="35" centerz="14" radius="1">
 		<monster name="Verminor" x="0" y="0" z="14" spawntime="60" />
@@ -1433,7 +1449,7 @@
 	</spawn>
 	<spawn centerx="52" centery="37" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
-		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="1" y="0" z="14" spawntime="60" />
 		<monster name="Shaburak Prince" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="60" centery="37" centerz="14" radius="1">
@@ -1456,8 +1472,13 @@
 	<spawn centerx="40" centery="38" centerz="14" radius="1">
 		<monster name="Ushuriel" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="56" centery="38" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Rahemos" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="62" centery="38" centerz="14" radius="1">
 		<monster name="Juggernaut" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="64" centery="38" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
@@ -1467,6 +1488,7 @@
 		<monster name="Shaburak Prince" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="25" centery="39" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="-1" y="-1" z="14" spawntime="60" />
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Defiler" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
@@ -1477,11 +1499,11 @@
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="55" centery="40" centerz="14" radius="1">
-		<monster name="Rahemos" x="0" y="-1" z="14" spawntime="60" />
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="57" centery="40" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Yielothax" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="23" centery="41" centerz="14" radius="1">
 		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
@@ -1495,13 +1517,18 @@
 	</spawn>
 	<spawn centerx="60" centery="41" centerz="14" radius="1">
 		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Noxious Spawn" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="62" centery="41" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="64" centery="41" centerz="14" radius="1">
+		<monster name="The Imperor" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="66" centery="41" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="-1" z="14" spawntime="1572720128" />
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Noxious Spawn" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="25" centery="42" centerz="14" radius="1">
 		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
@@ -1513,6 +1540,7 @@
 		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="20" centery="43" centerz="14" radius="1">
+		<monster name="The Imperor" x="-1" y="0" z="14" spawntime="60" />
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="22" centery="43" centerz="14" radius="1">
@@ -1521,6 +1549,10 @@
 	<spawn centerx="45" centery="43" centerz="14" radius="1">
 		<monster name="Lavahole" x="1" y="-1" z="14" spawntime="60" />
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="54" centery="43" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="25" centery="44" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
@@ -1539,16 +1571,31 @@
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="59" centery="44" centerz="14" radius="1">
+		<monster name="Yielothax" x="-1" y="0" z="14" spawntime="60" />
 		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="64" centery="44" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="67" centery="44" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="19" centery="45" centerz="14" radius="1">
+		<monster name="The Handmaiden" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="21" centery="45" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Yielothax" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="55" centery="45" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="1" y="-1" z="14" spawntime="60" />
 		<monster name="Defiler" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="45" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="23" centery="46" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
@@ -1561,10 +1608,12 @@
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="58" centery="46" centerz="14" radius="1">
+		<monster name="The Noxious Spawn" x="-1" y="0" z="14" spawntime="60" />
 		<monster name="Juggernaut" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="20" centery="47" centerz="14" radius="1">
-		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Noxious Spawn" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="55" centery="47" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
@@ -1576,14 +1625,21 @@
 	<spawn centerx="29" centery="48" centerz="14" radius="1">
 		<monster name="Madareth" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="51" centery="48" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="59" centery="48" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="67" centery="48" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="1" y="0" z="14" spawntime="-1188538112" />
+		<monster name="The Handmaiden" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="22" centery="49" centerz="14" radius="1">
 		<monster name="Shaburak Lord" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Yielothax" x="-1" y="1" z="14" spawntime="60" />
 		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
 		<monster name="Shaburak Demon" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
@@ -1593,6 +1649,7 @@
 	<spawn centerx="57" centery="49" centerz="14" radius="1">
 		<monster name="Shaburak Prince" x="-1" y="0" z="14" spawntime="60" />
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Noxious Spawn" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="64" centery="49" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
@@ -1610,6 +1667,9 @@
 	</spawn>
 	<spawn centerx="21" centery="51" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="51" centerz="14" radius="1">
+		<monster name="The Handmaiden" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="65" centery="51" centerz="14" radius="1">
 		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
@@ -1632,6 +1692,7 @@
 	</spawn>
 	<spawn centerx="47" centery="52" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Old Widow" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="54" centery="52" centerz="14" radius="1">
 		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
@@ -1639,6 +1700,7 @@
 	<spawn centerx="57" centery="52" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="63" centery="52" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
@@ -1676,6 +1738,7 @@
 		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="31" centery="54" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="-1" y="0" z="14" spawntime="60" />
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="35" centery="54" centerz="14" radius="1">
@@ -1691,20 +1754,37 @@
 	<spawn centerx="47" centery="54" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="55" centery="54" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="57" centery="54" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="54" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="66" centery="54" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Old Widow" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="21" centery="55" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="24" centery="55" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="26" centery="55" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="33" centery="55" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="41" centery="55" centerz="14" radius="1">
 		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="45" centery="55" centerz="14" radius="1">
+		<monster name="Yielothax" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="50" centery="55" centerz="14" radius="1">
 		<monster name="Infernatil" x="0" y="0" z="14" spawntime="60" />
@@ -1714,6 +1794,7 @@
 	</spawn>
 	<spawn centerx="39" centery="56" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="48" centery="56" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
@@ -1721,9 +1802,13 @@
 	</spawn>
 	<spawn centerx="53" centery="56" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="1" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="56" centery="56" centerz="14" radius="1">
 		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="67" centery="56" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="23" centery="57" centerz="14" radius="1">
 		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
@@ -1731,10 +1816,21 @@
 	<spawn centerx="25" centery="57" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="28" centery="57" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Yielothax" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="35" centery="57" centerz="14" radius="1">
+		<monster name="Yielothax" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="51" centery="57" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Demodras" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="57" centerz="14" radius="1">
+		<monster name="The Noxious Spawn" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="64" centery="57" centerz="14" radius="1">
 		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
@@ -1753,6 +1849,7 @@
 	</spawn>
 	<spawn centerx="56" centery="58" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="59" centery="58" centerz="14" radius="1">
 		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
@@ -1772,7 +1869,9 @@
 		<monster name="Demodras" x="0" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="48" centery="59" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="0" y="-1" z="14" spawntime="60" />
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="53" centery="59" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
@@ -1787,16 +1886,24 @@
 	<spawn centerx="39" centery="60" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="46" centery="60" centerz="14" radius="1">
+		<monster name="The Imperor" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="51" centery="60" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="60" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="23" centery="61" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="27" centery="61" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="-1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="29" centery="61" centerz="14" radius="1">
+		<monster name="The Noxious Spawn" x="0" y="-1" z="14" spawntime="60" />
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="31" centery="61" centerz="14" radius="1">
@@ -1808,10 +1915,12 @@
 	<spawn centerx="36" centery="61" centerz="14" radius="1">
 		<monster name="Juggernaut" x="1" y="-1" z="14" spawntime="60" />
 		<monster name="Magma Crawler" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Imperor" x="-1" y="1" z="14" spawntime="60" />
 		<monster name="Demon" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="41" centery="61" centerz="14" radius="1">
 		<monster name="Demodras" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Many" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="43" centery="61" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
@@ -1822,23 +1931,43 @@
 	</spawn>
 	<spawn centerx="58" centery="61" centerz="14" radius="1">
 		<monster name="Defiler" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="1" y="0" z="14" spawntime="60" />
 		<monster name="Green Djinn" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="62" centerz="14" radius="1">
+		<monster name="Verminor" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="38" centery="62" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Noxious Spawn" x="1" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="46" centery="62" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Plaguesmith" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="51" centery="62" centerz="14" radius="1">
 		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
 		<monster name="Demon" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="62" centerz="14" radius="1">
+		<monster name="The Noxious Spawn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="28" centery="63" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="63" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="34" centery="63" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Handmaiden" x="1" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="44" centery="63" centerz="14" radius="1">
 		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="54" centery="63" centerz="14" radius="1">
 		<monster name="Magma Crawler" x="0" y="0" z="14" spawntime="60" />
+		<monster name="The Old Widow" x="1" y="1" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="56" centery="63" centerz="14" radius="1">
 		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
@@ -1849,8 +1978,14 @@
 	<spawn centerx="40" centery="64" centerz="14" radius="1">
 		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="42" centery="64" centerz="14" radius="1">
+		<monster name="The Old Widow" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
 	<spawn centerx="47" centery="64" centerz="14" radius="1">
 		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="50" centery="64" centerz="14" radius="1">
+		<monster name="Plaguesmith" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
 	<spawn centerx="116" centery="70" centerz="14" radius="1">
 		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
