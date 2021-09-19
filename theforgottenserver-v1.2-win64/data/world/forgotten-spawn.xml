@@ -529,15 +529,19 @@
 		<monster name="Fire Devil" x="2" y="3" z="7" spawntime="60" />
 		<monster name="Fire Devil" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="7710" centery="49" centerz="7" radius="1">
+		<monster name="Demon" x="0" y="0" z="7" spawntime="3600" />
+		<monster name="Orshabaal" x="0" y="1" z="7" spawntime="3600" />
+	</spawn>
 	<spawn centerx="7865" centery="49" centerz="7" radius="1">
 		<monster name="Golgordan" x="0" y="0" z="7" spawntime="3600" />
 	</spawn>
-	<spawn centerx="7710" centery="50" centerz="7" radius="1">
+	<spawn centerx="7710" centery="50" centerz="7" radius="1" />
+	<spawn centerx="7787" centery="50" centerz="7" radius="1">
 		<monster name="Orshabaal" x="0" y="0" z="7" spawntime="3600" />
+		<monster name="Latrivan" x="0" y="1" z="7" spawntime="3600" />
 	</spawn>
-	<spawn centerx="7787" centery="51" centerz="7" radius="1">
-		<monster name="Latrivan" x="0" y="0" z="7" spawntime="3600" />
-	</spawn>
+	<spawn centerx="7787" centery="51" centerz="7" radius="1" />
 	<spawn centerx="17" centery="54" centerz="7" radius="7">
 		<monster name="Magicthrower" x="-6" y="0" z="7" spawntime="60" />
 		<monster name="Magicthrower" x="-5" y="0" z="7" spawntime="60" />
@@ -1203,5 +1207,2102 @@
 	<spawn centerx="2829" centery="3167" centerz="7" radius="1">
 		<monster name="Orshabaal" x="-1" y="0" z="7" spawntime="1195148288" />
 		<monster name="Orshabaal" x="0" y="0" z="7" spawntime="3600" />
+	</spawn>
+	<spawn centerx="116" centery="2" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="124" centery="2" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="117" centery="4" centerz="14" radius="1">
+		<monster name="Bazir" x="-1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="-1" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="124" centery="4" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="-1" y="1" z="14" spawntime="60" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="116" centery="6" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="118" centery="6" centerz="14" radius="1">
+		<monster name="Bazir" x="1" y="-1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="120" centery="6" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="-1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="-1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="122" centery="6" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="-1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="60" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="124" centery="6" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="116" centery="8" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="119" centery="8" centerz="14" radius="1">
+		<monster name="Bazir" x="-1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="-1" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="121" centery="8" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="124" centery="8" centerz="14" radius="1">
+		<monster name="Bazir" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="-1" y="1" z="14" spawntime="60" />
+		<monster name="Bazir" x="0" y="1" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="116" centery="10" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="118" centery="10" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="120" centery="10" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="122" centery="10" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+		<monster name="Bazir" x="1" y="0" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="124" centery="10" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="1572496896" />
+	</spawn>
+	<spawn centerx="123" centery="12" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="123" centery="19" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="116" centery="24" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="124" centery="24" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="118" centery="27" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="28" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="29" centery="29" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="36" centery="29" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="29" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="43" centery="29" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="29" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="22" centery="30" centerz="14" radius="1">
+		<monster name="Massacre" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="30" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Shaburak Prince" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="30" centerz="14" radius="1">
+		<monster name="Juggernaut" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="31" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="31" centerz="14" radius="1">
+		<monster name="Infernatil" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="22" centery="32" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="39" centery="32" centerz="14" radius="1">
+		<monster name="Hellgorak" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="32" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="64" centery="32" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="117" centery="32" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="33" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="33" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="33" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="20" centery="34" centerz="14" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="34" centerz="14" radius="1">
+		<monster name="Infernatil" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Zavarash" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="22" centery="35" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="27" centery="35" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="29" centery="35" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="49" centery="35" centerz="14" radius="1">
+		<monster name="Lavahole" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="35" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="Magic Pillar" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="35" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="65" centery="35" centerz="14" radius="1">
+		<monster name="Verminor" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Djinn" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="36" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="36" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="36" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="36" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="45" centery="37" centerz="14" radius="1">
+		<monster name="Golgordan" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="48" centery="37" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="37" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+		<monster name="Shaburak Prince" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="60" centery="37" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="124" centery="37" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="20" centery="38" centerz="14" radius="1">
+		<monster name="Verminor" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="27" centery="38" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="30" centery="38" centerz="14" radius="1">
+		<monster name="Latrivan" x="-1" y="-1" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="38" centerz="14" radius="1">
+		<monster name="Ushuriel" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="38" centerz="14" radius="1">
+		<monster name="Juggernaut" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="64" centery="38" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="66" centery="38" centerz="14" radius="1">
+		<monster name="Shaburak Prince" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="39" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Defiler" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="39" centerz="14" radius="1">
+		<monster name="Gnomevil" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="19" centery="40" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="40" centerz="14" radius="1">
+		<monster name="Rahemos" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="57" centery="40" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="23" centery="41" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="41" centerz="14" radius="1">
+		<monster name="Ferumbras" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="41" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="60" centery="41" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="41" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="66" centery="41" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="-1" z="14" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="42" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="42" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="123" centery="42" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="20" centery="43" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="22" centery="43" centerz="14" radius="1">
+		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="45" centery="43" centerz="14" radius="1">
+		<monster name="Lavahole" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="44" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="27" centery="44" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="39" centery="44" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="44" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="44" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="44" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="64" centery="44" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="21" centery="45" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="45" centerz="14" radius="1">
+		<monster name="Defiler" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="23" centery="46" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Shaburak Prince" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="45" centery="46" centerz="14" radius="1">
+		<monster name="Annihilon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="46" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="46" centerz="14" radius="1">
+		<monster name="Juggernaut" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="20" centery="47" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="47" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="48" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="29" centery="48" centerz="14" radius="1">
+		<monster name="Madareth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="48" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="67" centery="48" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="22" centery="49" centerz="14" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
+		<monster name="Shaburak Demon" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="43" centery="49" centerz="14" radius="1">
+		<monster name="Zugurosh" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="57" centery="49" centerz="14" radius="1">
+		<monster name="Shaburak Prince" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="64" centery="49" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="24" centery="50" centerz="14" radius="1">
+		<monster name="Terofar" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demodras" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="54" centery="50" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Shaburak Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="50" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="21" centery="51" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="65" centery="51" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="67" centery="51" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="28" centery="52" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Infernatil" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Shaburak Prince" x="0" y="1" z="14" spawntime="60" />
+		<monster name="Hellfire Fighter" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="52" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="35" centery="52" centerz="14" radius="1">
+		<monster name="The Many" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="47" centery="52" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="54" centery="52" centerz="14" radius="1">
+		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="57" centery="52" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Medusa" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="52" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="20" centery="53" centerz="14" radius="1">
+		<monster name="Gnomevil" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="22" centery="53" centerz="14" radius="1">
+		<monster name="Defiler" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="53" centerz="14" radius="1">
+		<monster name="Demon" x="-1" y="0" z="14" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="33" centery="53" centerz="14" radius="1">
+		<monster name="Shaburak Lord" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="37" centery="53" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="53" centerz="14" radius="1">
+		<monster name="Verminor" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Djinn" x="0" y="1" z="14" spawntime="1572722944" />
+	</spawn>
+	<spawn centerx="50" centery="53" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="53" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="116" centery="53" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="124" centery="53" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="54" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="35" centery="54" centerz="14" radius="1">
+		<monster name="Rahemos" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Medusa" x="-1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="43" centery="54" centerz="14" radius="1">
+		<monster name="Shaburak Prince" x="0" y="-1" z="14" spawntime="60" />
+		<monster name="Demon" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Medusa" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="47" centery="54" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="57" centery="54" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="66" centery="54" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="24" centery="55" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="33" centery="55" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="55" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="50" centery="55" centerz="14" radius="1">
+		<monster name="Infernatil" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="63" centery="55" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="39" centery="56" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="48" centery="56" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Defiler" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="56" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="56" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="23" centery="57" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="25" centery="57" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="57" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demodras" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="64" centery="57" centerz="14" radius="1">
+		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="38" centery="58" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="58" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="58" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="45" centery="58" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="58" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="59" centery="58" centerz="14" radius="1">
+		<monster name="Green Djinn" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="117" centery="58" centerz="14" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="124" centery="58" centerz="14" radius="1">
+		<monster name="Bad Dream" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="59" centerz="14" radius="1">
+		<monster name="Medusa" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="35" centery="59" centerz="14" radius="1">
+		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demodras" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="48" centery="59" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="53" centery="59" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Magicthrower" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="59" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="66" centery="59" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="39" centery="60" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="60" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="23" centery="61" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="27" centery="61" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="29" centery="61" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="61" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="33" centery="61" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="36" centery="61" centerz="14" radius="1">
+		<monster name="Juggernaut" x="1" y="-1" z="14" spawntime="60" />
+		<monster name="Magma Crawler" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demon" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="61" centerz="14" radius="1">
+		<monster name="Demodras" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="43" centery="61" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="61" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demodras" x="0" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="61" centerz="14" radius="1">
+		<monster name="Defiler" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Green Djinn" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="38" centery="62" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="46" centery="62" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="62" centerz="14" radius="1">
+		<monster name="Medusa" x="0" y="0" z="14" spawntime="60" />
+		<monster name="Demon" x="1" y="1" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="44" centery="63" centerz="14" radius="1">
+		<monster name="Magicthrower" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="54" centery="63" centerz="14" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="63" centerz="14" radius="1">
+		<monster name="Hellfire Fighter" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="116" centery="63" centerz="14" radius="1">
+		<monster name="Bad Dream" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="64" centerz="14" radius="1">
+		<monster name="Demon" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="47" centery="64" centerz="14" radius="1">
+		<monster name="Lavahole" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="116" centery="70" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="124" centery="70" centerz="14" radius="1">
+		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
+	</spawn>
+	<spawn centerx="50" centery="19" centerz="15" radius="1">
+		<monster name="Iron Servant" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Iron Servant" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Iron Servant" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="19" centerz="15" radius="1">
+		<monster name="Leviathan" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="55" centery="19" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="57" centery="19" centerz="15" radius="1">
+		<monster name="Omruc" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="60" centery="19" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Rahemos" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="-1" y="1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="62" centery="19" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="46" centery="20" centerz="15" radius="1">
+		<monster name="Leviathan" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Iron Servant" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="48" centery="21" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Iron Servant" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="50" centery="21" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="21" centerz="15" radius="1">
+		<monster name="Leviathan" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="21" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="58" centery="21" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="61" centery="21" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="44" centery="23" centerz="15" radius="1">
+		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="24" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Drasilla" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Infernalist" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="38" centery="25" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Infernalist" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="25" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="38" centery="27" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="27" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="35" centery="31" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Azerus" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="37" centery="32" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Azerus" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Serpent Spawn" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="35" centery="34" centerz="15" radius="1">
+		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="255" centery="58" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="182" centery="59" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="194" centery="59" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="244" centery="59" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="264" centery="59" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="157" centery="60" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="60" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="224" centery="60" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="236" centery="60" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="277" centery="60" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="287" centery="64" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="231" centery="69" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="233" centery="69" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="235" centery="69" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="241" centery="69" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="249" centery="69" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="154" centery="70" centerz="15" radius="1">
+		<monster name="Ghazbaran" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="156" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="158" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="160" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="162" centery="70" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="168" centery="70" centerz="15" radius="1">
+		<monster name="Ghazbaran" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="173" centery="70" centerz="15" radius="1">
+		<monster name="Behemoth" x="-1" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="175" centery="70" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="177" centery="70" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="181" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="183" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="204" centery="70" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="225" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="-1" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="228" centery="70" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="252" centery="70" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="260" centery="70" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="263" centery="70" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="273" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="275" centery="70" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="187" centery="71" centerz="15" radius="1">
+		<monster name="Ghazbaran" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="189" centery="71" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="195" centery="71" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="212" centery="71" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="223" centery="71" centerz="15" radius="1">
+		<monster name="Warlock" x="-1" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="270" centery="71" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="277" centery="72" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="249" centery="73" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="253" centery="73" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="260" centery="73" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="263" centery="73" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="265" centery="73" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="271" centery="73" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="278" centery="74" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="241" centery="75" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="157" centery="76" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="161" centery="76" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="164" centery="76" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="169" centery="76" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="172" centery="76" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="174" centery="76" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="176" centery="76" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="178" centery="76" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="182" centery="76" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="213" centery="76" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="216" centery="76" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="221" centery="76" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="225" centery="76" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="232" centery="76" centerz="15" radius="1">
+		<monster name="Behemoth" x="-1" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+		<monster name="Behemoth" x="1" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="234" centery="76" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="237" centery="76" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="278" centery="76" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="184" centery="77" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="186" centery="77" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="1" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="274" centery="77" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="292" centery="77" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="189" centery="78" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="198" centery="78" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="201" centery="78" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="278" centery="78" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="273" centery="80" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Behemoth" x="-1" y="1" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="278" centery="80" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Behemoth" x="0" y="1" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="271" centery="82" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="0" z="15" spawntime="1572495616" />
+	</spawn>
+	<spawn centerx="278" centery="83" centerz="15" radius="1">
+		<monster name="Behemoth" x="0" y="-1" z="15" spawntime="1572495616" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="289" centery="83" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="254" centery="85" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="259" centery="85" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="85" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="278" centery="85" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="202" centery="86" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="217" centery="86" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="224" centery="86" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="234" centery="86" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="158" centery="87" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="182" centery="87" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="190" centery="87" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="245" centery="87" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="269" centery="87" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="278" centery="87" centerz="15" radius="1">
+		<monster name="Zoralurk" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="269" centery="89" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="277" centery="89" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="270" centery="91" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="276" centery="91" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="289" centery="91" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="259" centery="93" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="93" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="276" centery="93" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="270" centery="95" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="95" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="272" centery="97" centerz="15" radius="1">
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="97" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="-1" y="1" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="260" centery="98" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="275" centery="99" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="275" centery="101" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="262" centery="103" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="275" centery="103" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="276" centery="105" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Gaz'haragoth" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="108" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="287" centery="108" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="263" centery="109" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="110" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="112" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="285" centery="113" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="268" centery="115" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="83" centery="116" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="283" centery="116" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="47" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="49" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="51" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="53" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="55" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="57" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="59" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="61" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="63" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="65" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="67" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="69" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="71" centery="117" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="73" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="75" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="77" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="79" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="81" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="87" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="89" centery="117" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="83" centery="118" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="85" centery="118" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="91" centery="118" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="93" centery="118" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="95" centery="118" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="97" centery="118" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="270" centery="118" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="47" centery="119" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="119" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="71" centery="120" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="97" centery="120" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="280" centery="120" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="46" centery="121" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="121" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="273" centery="121" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="72" centery="122" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="122" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="280" centery="122" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="46" centery="123" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="123" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="273" centery="123" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="44" centery="124" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="72" centery="124" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="124" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="280" centery="124" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="125" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="46" centery="125" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="125" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="273" centery="125" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="72" centery="126" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="126" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="101" centery="126" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="280" centery="126" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="-1" y="1" z="15" spawntime="1572736512" />
+		<monster name="Warlock" x="0" y="1" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="44" centery="127" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="-1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="46" centery="127" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="99" centery="127" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="274" centery="127" centerz="15" radius="1">
+		<monster name="Warlock" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="276" centery="127" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="278" centery="127" centerz="15" radius="1">
+		<monster name="Warlock" x="0" y="0" z="15" spawntime="1572736512" />
+	</spawn>
+	<spawn centerx="72" centery="128" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="128" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="101" centery="128" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="44" centery="129" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="46" centery="129" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="99" centery="129" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="72" centery="130" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="130" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="101" centery="130" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="44" centery="131" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="46" centery="131" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="131" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="72" centery="132" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="97" centery="132" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="101" centery="132" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="44" centery="133" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="46" centery="133" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="133" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="71" centery="134" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="134" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="44" centery="135" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="46" centery="135" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="135" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="42" centery="136" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="136" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="136" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="46" centery="137" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="99" centery="137" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="42" centery="138" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="138" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="138" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="44" centery="139" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="46" centery="139" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="99" centery="139" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="42" centery="140" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="140" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="140" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="44" centery="141" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="46" centery="141" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="42" centery="142" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="142" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="97" centery="142" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="60" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="44" centery="143" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="46" centery="143" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="42" centery="144" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="144" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="144" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="45" centery="145" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="47" centery="145" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="42" centery="146" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="146" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="96" centery="146" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="45" centery="147" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="-1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="47" centery="147" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="43" centery="148" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="71" centery="148" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="148" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="45" centery="149" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="-1" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="47" centery="149" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="43" centery="150" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="72" centery="150" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="150" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="46" centery="151" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="43" centery="152" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Demon (Goblin)" x="1" y="0" z="15" spawntime="1572719360" />
+	</spawn>
+	<spawn centerx="72" centery="152" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="152" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="46" centery="153" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="72" centery="154" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="154" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="46" centery="155" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="71" centery="156" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="97" centery="156" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="46" centery="157" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="71" centery="158" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="98" centery="158" centerz="15" radius="1">
+		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="46" centery="159" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon (Goblin)" x="0" y="1" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="96" centery="159" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="71" centery="160" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="98" centery="160" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="46" centery="161" centerz="15" radius="1">
+		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="96" centery="161" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="71" centery="162" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="98" centery="162" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demon" x="-1" y="1" z="15" spawntime="1572720128" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="46" centery="163" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
+	</spawn>
+	<spawn centerx="96" centery="163" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="71" centery="164" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
+		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="98" centery="164" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="46" centery="165" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="51" centery="166" centerz="15" radius="1">
+		<monster name="Demodras" x="-1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="53" centery="166" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="55" centery="166" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="57" centery="166" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="72" centery="166" centerz="15" radius="1">
+		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
+		<monster name="Apocalypse" x="1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="79" centery="166" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="97" centery="166" centerz="15" radius="1">
+		<monster name="Demodras" x="-1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="47" centery="167" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="49" centery="167" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="59" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="61" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="63" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="65" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="67" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="69" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="75" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="-1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="-1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="77" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="87" centery="167" centerz="15" radius="1">
+		<monster name="Demodras" x="-1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="-1" y="1" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="89" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="91" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="93" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="1572497408" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="95" centery="167" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="79" centery="168" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="81" centery="168" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="83" centery="168" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
+		<monster name="Demodras" x="1" y="0" z="15" spawntime="1572720640" />
+	</spawn>
+	<spawn centerx="85" centery="168" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
 	</spawn>
 </spawns>
