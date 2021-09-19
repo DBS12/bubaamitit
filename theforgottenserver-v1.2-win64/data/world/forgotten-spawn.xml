@@ -1993,6 +1993,9 @@
 	<spawn centerx="124" centery="70" centerz="14" radius="1">
 		<monster name="Bazir" x="0" y="0" z="14" spawntime="60" />
 	</spawn>
+	<spawn centerx="21" centery="5" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="23" centery="6" centerz="15" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Orc Shaman" x="-1" y="1" z="15" spawntime="-1188545024" />
@@ -2023,6 +2026,9 @@
 		<monster name="Orc Shaman" x="0" y="0" z="15" spawntime="-1188545024" />
 		<monster name="Orc Shaman" x="0" y="1" z="15" spawntime="-1188545024" />
 	</spawn>
+	<spawn centerx="25" centery="7" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="34" centery="7" centerz="15" radius="1">
 		<monster name="Minotaur Archer" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Minotaur Archer" x="0" y="1" z="15" spawntime="-1188545792" />
@@ -2035,17 +2041,24 @@
 		<monster name="Orc Warlord" x="0" y="0" z="15" spawntime="-1188545024" />
 		<monster name="Orc Warlord" x="0" y="1" z="15" spawntime="-1188545024" />
 	</spawn>
+	<spawn centerx="49" centery="7" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="58" centery="7" centerz="15" radius="1">
 		<monster name="Kollos" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="61" centery="7" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="68" centery="7" centerz="15" radius="1">
 		<monster name="Gazer" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="-1" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="70" centery="7" centerz="15" radius="1">
 		<monster name="Kollos" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="77" centery="7" centerz="15" radius="1">
-		<monster name="Killer Rabbit" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="82" centery="7" centerz="15" radius="1">
 		<monster name="Magma Crawler" x="-1" y="0" z="15" spawntime="60" />
@@ -2054,23 +2067,32 @@
 	<spawn centerx="30" centery="8" centerz="15" radius="1">
 		<monster name="Gnorre Chyllson" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="36" centery="8" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="44" centery="8" centerz="15" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="15" spawntime="-1188544256" />
 		<monster name="Minotaur Mage" x="0" y="1" z="15" spawntime="-1188544256" />
 	</spawn>
 	<spawn centerx="52" centery="8" centerz="15" radius="1">
 		<monster name="Lava Golem" x="-1" y="-1" z="15" spawntime="60" />
+		<monster name="Ashmunrah" x="1" y="-1" z="15" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Magma Crawler" x="1" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="54" centery="8" centerz="15" radius="1">
 		<monster name="Gnomevil" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Bazir" x="1" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="63" centery="8" centerz="15" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="15" spawntime="-1188544256" />
 		<monster name="Minotaur Mage" x="0" y="1" z="15" spawntime="-1188544256" />
 	</spawn>
+	<spawn centerx="85" centery="8" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="90" centery="8" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Gnorre Chyllson" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="21" centery="9" centerz="15" radius="1">
@@ -2104,6 +2126,12 @@
 		<monster name="Magma Crawler" x="-1" y="-1" z="15" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="69" centery="9" centerz="15" radius="1">
+		<monster name="Dipthrah" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="37" centery="10" centerz="15" radius="1">
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="42" centery="10" centerz="15" radius="1">
 		<monster name="Mimic" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
@@ -2134,8 +2162,12 @@
 	<spawn centerx="63" centery="10" centerz="15" radius="1">
 		<monster name="Minotaur Mage" x="0" y="0" z="15" spawntime="-1188544256" />
 	</spawn>
+	<spawn centerx="88" centery="10" centerz="15" radius="1">
+		<monster name="Dipthrah" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="90" centery="10" centerz="15" radius="1">
 		<monster name="Magma Crawler" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Demodras" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="22" centery="11" centerz="15" radius="1">
 		<monster name="Orc Shaman" x="0" y="0" z="15" spawntime="-1188545024" />
@@ -2154,6 +2186,7 @@
 	</spawn>
 	<spawn centerx="83" centery="15" centerz="15" radius="1">
 		<monster name="Gazer" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Ashmunrah" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="87" centery="15" centerz="15" radius="1">
 		<monster name="Kollos" x="0" y="0" z="15" spawntime="60" />
@@ -2169,8 +2202,12 @@
 	<spawn centerx="82" centery="17" centerz="15" radius="1">
 		<monster name="Magma Crawler" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
+	<spawn centerx="85" centery="17" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="72" centery="18" centerz="15" radius="1">
-		<monster name="Magma Crawler" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Bazir" x="0" y="-1" z="15" spawntime="-1188557824" />
+		<monster name="Bazir" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Magma Crawler" x="-1" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="50" centery="19" centerz="15" radius="1">
@@ -2210,11 +2247,15 @@
 	<spawn centerx="67" centery="19" centerz="15" radius="1">
 		<monster name="Gazer" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Lava Golem" x="1" y="0" z="15" spawntime="60" />
+		<monster name="Dipthrah" x="1" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="70" centery="19" centerz="15" radius="1">
 		<monster name="Kollos" x="-1" y="-1" z="15" spawntime="60" />
 		<monster name="Killer Rabbit" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Mimic" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
+	<spawn centerx="75" centery="19" centerz="15" radius="1">
+		<monster name="Demodras" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="44" centery="20" centerz="15" radius="1">
 		<monster name="Morgaroth" x="0" y="0" z="15" spawntime="60" />
@@ -2269,6 +2310,7 @@
 		<monster name="Serpent Spawn" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="41" centery="27" centerz="15" radius="1">
+		<monster name="Apocalypse" x="1" y="-1" z="15" spawntime="60" />
 		<monster name="Serpent Spawn" x="-1" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
