@@ -3037,7 +3037,7 @@
 	</spawn>
 	<spawn centerx="60" centery="120" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="71" centery="120" centerz="15" radius="1">
 		<monster name="Demon" x="0" y="-1" z="15" spawntime="1572720128" />
@@ -3079,7 +3079,7 @@
 	</spawn>
 	<spawn centerx="60" centery="122" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="72" centery="122" centerz="15" radius="1">
 		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
@@ -3165,6 +3165,10 @@
 		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
 		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
 	</spawn>
+	<spawn centerx="84" centery="126" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
+	</spawn>
 	<spawn centerx="97" centery="126" centerz="15" radius="1">
 		<monster name="Apocalypse" x="-1" y="0" z="15" spawntime="1572497408" />
 		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
@@ -3195,6 +3199,7 @@
 		<monster name="Demodras" x="1" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="60" centery="127" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
@@ -3218,6 +3223,10 @@
 		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
 		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
 	</spawn>
+	<spawn centerx="84" centery="128" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+	</spawn>
 	<spawn centerx="97" centery="128" centerz="15" radius="1">
 		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
 		<monster name="Demodras" x="0" y="0" z="15" spawntime="1572720640" />
@@ -3240,7 +3249,7 @@
 		<monster name="Demodras" x="1" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="60" centery="129" centerz="15" radius="1">
-		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
 	<spawn centerx="99" centery="129" centerz="15" radius="1">
@@ -3252,7 +3261,6 @@
 		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
 	</spawn>
 	<spawn centerx="84" centery="130" centerz="15" radius="1">
-		<monster name="Infernalist" x="0" y="-1" z="15" spawntime="-1188549888" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
@@ -3315,7 +3323,7 @@
 		<monster name="Demodras" x="1" y="1" z="15" spawntime="1572720640" />
 	</spawn>
 	<spawn centerx="60" centery="133" centerz="15" radius="1">
-		<monster name="Infernalist" x="0" y="-1" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="99" centery="133" centerz="15" radius="1">
@@ -3388,7 +3396,7 @@
 	</spawn>
 	<spawn centerx="60" centery="138" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="71" centery="138" centerz="15" radius="1">
 		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
@@ -3429,7 +3437,7 @@
 	</spawn>
 	<spawn centerx="60" centery="140" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="71" centery="140" centerz="15" radius="1">
 		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
@@ -3466,7 +3474,7 @@
 	</spawn>
 	<spawn centerx="60" centery="142" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="71" centery="142" centerz="15" radius="1">
 		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="1572497408" />
@@ -3496,6 +3504,7 @@
 	</spawn>
 	<spawn centerx="84" centery="143" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="42" centery="144" centerz="15" radius="1">
 		<monster name="Demon (Goblin)" x="0" y="0" z="15" spawntime="1572719360" />
@@ -3530,6 +3539,7 @@
 		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
 	</spawn>
 	<spawn centerx="60" centery="146" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
@@ -3564,7 +3574,7 @@
 	</spawn>
 	<spawn centerx="60" centery="148" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="71" centery="148" centerz="15" radius="1">
 		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
@@ -3595,7 +3605,7 @@
 		<monster name="Demon (Goblin)" x="1" y="1" z="15" spawntime="1572719360" />
 	</spawn>
 	<spawn centerx="60" centery="150" centerz="15" radius="1">
-		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
 	<spawn centerx="72" centery="150" centerz="15" radius="1">
@@ -3605,6 +3615,7 @@
 		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
 	</spawn>
 	<spawn centerx="84" centery="150" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
@@ -3632,7 +3643,7 @@
 	</spawn>
 	<spawn centerx="84" centery="152" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="97" centery="152" centerz="15" radius="1">
 		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
@@ -3670,13 +3681,16 @@
 	</spawn>
 	<spawn centerx="60" centery="155" centerz="15" radius="1">
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
-		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="71" centery="156" centerz="15" radius="1">
 		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
 		<monster name="Demon" x="1" y="0" z="15" spawntime="1572720128" />
 		<monster name="Demon" x="0" y="1" z="15" spawntime="1572720128" />
 		<monster name="Demon" x="1" y="1" z="15" spawntime="1572720128" />
+	</spawn>
+	<spawn centerx="84" centery="156" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="97" centery="156" centerz="15" radius="1">
 		<monster name="Demon" x="-1" y="0" z="15" spawntime="1572720128" />
@@ -3714,7 +3728,7 @@
 		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
 	</spawn>
 	<spawn centerx="84" centery="159" centerz="15" radius="1">
-		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
 	<spawn centerx="96" centery="159" centerz="15" radius="1">
@@ -3741,6 +3755,7 @@
 		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
 	</spawn>
 	<spawn centerx="60" centery="161" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
 	</spawn>
@@ -3771,8 +3786,12 @@
 		<monster name="Apocalypse" x="1" y="1" z="15" spawntime="1572497408" />
 	</spawn>
 	<spawn centerx="60" centery="163" centerz="15" radius="1">
-		<monster name="Infernalist" x="0" y="0" z="15" spawntime="-1188549888" />
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
 		<monster name="Infernalist" x="0" y="1" z="15" spawntime="-1188549888" />
+	</spawn>
+	<spawn centerx="84" centery="163" centerz="15" radius="1">
+		<monster name="Apocalypse" x="0" y="0" z="15" spawntime="60" />
+		<monster name="Apocalypse" x="0" y="1" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="96" centery="163" centerz="15" radius="1">
 		<monster name="Demon" x="0" y="0" z="15" spawntime="1572720128" />
