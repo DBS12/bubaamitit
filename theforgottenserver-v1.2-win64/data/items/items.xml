@@ -18705,6 +18705,7 @@
 		<attribute key="weight" value="40" />
 		<attribute key="slotType" value="ring" />
 		<attribute key="speed" value="400" />
+		<attribute key="suppressDrunk" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="10503" article="a" name="wedding outfit box">
